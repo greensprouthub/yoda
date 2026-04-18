@@ -1,0 +1,48 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Day Job",
+        "Wormspire",
+        "Puzzle4Life",
+        "GSH",
+        "Marketing",
+        "Operations",
+        "Personal",
+        "Other"
+      ]
+    },
+    "due_date": {
+      "type": "string"
+    },
+    "reminder_days_before": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Upcoming",
+        "Due Soon",
+        "Overdue",
+        "Done"
+      ]
+    },
+    "consequence": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "Deadline"
+}

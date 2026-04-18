@@ -1,0 +1,44 @@
+
+═══════════════════════════════════════════════════════════
+GMAIL BATCH SUMMARY — Batch #26
+Date: 2026-04-14 | Time: 18:46:50
+═══════════════════════════════════════════════════════════
+
+TOTAL EMAILS PROCESSED: 100
+
+CATEGORY BREAKDOWN:
+  • Other: 32
+  • Spam: 26
+  • Newsletter: 18
+  • Customer Inquiry: 12
+  • Wormspire Order: 10
+  • ZenBusiness/Compliance: 2
+
+URGENT FLAGS: 3 items need attention
+
+URGENT ITEMS (Top 5):
+  1. [Other] Opinion: Export controls failed.
+     From: "Forward Future (Matthew Berman)" <astro
+  2. [Spam] Offline payments are now turned on
+     From: Square <noreply@messaging.squareup.com>
+  3. [Other] Payment due in 3 days
+     From: Shop Pay <affirm-billing@shop.affirm.com
+
+TOP SENDERS:
+  • Meetup <info@meetup.com> (4)
+  • Ideabrowser <notifications@mail.ideabrowser.com> (3)
+  • xTool Services Pro <no-reply@base44-apps.com> (3)
+  • ColorLaserEngraving Analytics <no-reply@base44-app (3)
+  • Reddit <noreply@redditmail.com> (3)
+  • eBay <ebay@ebay.com> (3)
+  • Monica Leonelle <team@theworldneedsyourpassion.com (2)
+  • Creator Spotlight <creator-spotlight@mail.beehiiv. (2)
+  • Andrej Morgan <andrejm@forgoodprofits.com> (2)
+  • The AI Collective Newsletter <aicollectivenewslett (2)
+
+KEY ACTION ITEMS:
+  1. Review 3 urgent items above
+  2. Archive processed batch
+  3. Next scan scheduled
+
+═══════════════════════════════════════════════════════════

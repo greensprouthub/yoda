@@ -1,0 +1,45 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "date": {
+      "type": "string"
+    },
+    "meditation": {
+      "type": "boolean"
+    },
+    "fitness": {
+      "type": "boolean"
+    },
+    "dog_walk": {
+      "type": "boolean"
+    },
+    "healthy_eating": {
+      "type": "boolean"
+    },
+    "minute_win": {
+      "type": "boolean"
+    },
+    "minute_win_description": {
+      "type": "string"
+    },
+    "mood": {
+      "type": "string",
+      "enum": [
+        "Struggling",
+        "Okay",
+        "Good",
+        "Great",
+        "Flow State"
+      ]
+    },
+    "focus_score": {
+      "type": "number"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "HabitLog"
+}

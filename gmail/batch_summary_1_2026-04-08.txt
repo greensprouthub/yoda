@@ -1,0 +1,58 @@
+=== GMAIL BATCH SUMMARY #1 — LIVE SCAN ===
+Date: 2026-04-08
+Scanned: 100 emails (of ~201 estimated in inbox)
+Scanned by: Yoda (manual live scan)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORY BREAKDOWN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📦 Wormspire Orders:      0
+⚠️  Compliance/Legal:      1  ← URGENT
+💬 Customer Inquiries:    2
+🧩 Puzzle4Life:           0
+📰 Newsletters:           21
+🗑️  Spam/Promo:            0
+👥 Social:                0
+📁 Other:                 76
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 URGENT FLAGS (1)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️  PAYMENT FAILED — Mercury Bank alert
+    Subject: "eBay ComLOLKFOVZ failed to charge GreenSprout Hub LLC $11.57 via ACH"
+    From: Mercury <hello@mercury.com>
+    Action needed: Check Mercury account — eBay ACH payment of $11.57 failed.
+    Could affect eBay seller account standing if not resolved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 ALSO NOTE — eBay Action Request
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Subject: "ACTION NEEDED: Please update the information we requested"
+    From: eBay <ebay@ebay.com>
+    Action: Log into eBay and check what info they need.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TOP SENDERS (this batch)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5x — Mindvalley
+4x — SCORE Central Region
+3x — TLDR InfoSec
+3x — Forward Future (Matthew Berman)
+3x — Taki Moore
+3x — eBay
+3x — TLDR Newsletter
+2x — TLDR AI
+2x — TLDR Founders
+2x — xTool Services Pro
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NEWSLETTER HIGHLIGHTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- TLDR AI: Claude Mythos, GLM-5.1, Anthropic updates
+- TLDR Founders: State of Agents, vertical AI
+- Forward Future (Matthew Berman): AI lab finances
+- Mindvalley: 5 emails (personal dev / coaching content)
+- SCORE Central Region: 4 emails (small biz mentorship)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NEXT BATCH: Remaining ~101 emails to process

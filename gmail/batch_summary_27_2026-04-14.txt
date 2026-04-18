@@ -1,0 +1,40 @@
+================================================================================
+Gmail Batch Summary #27
+Date: Tuesday, April 14, 2026 | Time: 19:45 CT
+================================================================================
+
+BATCH OVERVIEW:
+  Total Emails Processed: 100
+  Timestamp: 2026-04-14T19:45:00-05:00
+
+CATEGORY BREAKDOWN:
+  • Newsletter:           18 emails
+  • Other:               72 emails
+  • Wormspire Order:      7 emails
+  • ZenBusiness/Compliance: 2 emails
+  • Customer Inquiry:     0 emails
+  • Spam:                 1 email
+
+URGENT ITEMS FLAGGED: 2
+  1. Affirm notification about loan request (SHOP PAY)
+  2. Kevin's Gift Deadline ($200k Value) from Trudeau Training
+
+TOP SENDERS:
+  • Meetup <info@meetup.com> (4)
+  • Great Scott <SuperCurtains@gmail.com> (2)
+  • LinkedIn <messages-noreply@linkedin.com> (2)
+  • Austin Startup Founder Network <info@email.meetup.com> (2)
+  • Creator Spotlight <creator-spotlight@mail.beehiiv.com> (2)
+  • xTool <no-reply@edm.xtool.com> (2)
+  • Ideabrowser <notifications@mail.ideabrowser.com> (2)
+  • The AI Collective Newsletter <aicollectivenewsletter@mail.beehiiv.com> (2)
+  • TLDR InfoSec <dan@tldrnewsletter.com> (2)
+  • xTool Services Pro <no-reply@base44-apps.com> (2)
+
+ACTION ITEMS:
+  ⚠️  Check Affirm Shop Pay notification (loan request status)
+  ⚠️  Review Kevin's Gift Deadline from Dustin Warner ($200k opportunity?)
+  → Review 18 newsletters for interest media content
+  → Sort 72 other emails by relevance
+
+================================================================================

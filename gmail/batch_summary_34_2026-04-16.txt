@@ -1,0 +1,32 @@
+GMAIL BATCH SUMMARY #34
+Generated: 2026-04-16 18:46:23
+======================================================================
+
+TOTALS
+------
+Total emails processed: 50
+
+CATEGORY BREAKDOWN
+------------------
+Wormspire Orders:         2
+Customer Inquiries:       3
+Compliance/Tax:           4
+Newsletters:              7
+Spam:                     4
+Other:                   30
+
+URGENT FLAGS (0 found)
+----------------------------------------------------------------------
+
+KEY SENDERS
+----------------------------------------------------------------------
+ 2x Ideabrowser <notifications@mail.ideabrowser.com>
+ 2x Do512 <toppicks@goto.do512.com>
+ 2x Brevo <contact@t.brevo.com>
+ 2x "SCORE Austin, Chapter 249" <score.austin@scorevolunteer.org>
+ 1x Amazon Web Services <aws-marketing-email-replies@amazon.com>
+ 1x Autodesk <autodesk@autodeskcommunications.com>
+ 1x Kickstarter <email@me.kickstarter.com>
+ 1x Texas Dept of Ag <outreach@texasagriculture.gov>
+ 1x Monica Leonelle <team@theworldneedsyourpassion.com>
+ 1x Amazon Business <no-reply@business.amazon.com>

@@ -1,0 +1,17 @@
+{
+  "batch_num": 10,
+  "date": "2026-04-13",
+  "total_emails": 100,
+  "urgent_count": 7,
+  "categories": {
+    "wormspire_order": 1,
+    "customer_inquiry": 0,
+    "puzzle4life": 0,
+    "compliance": 5,
+    "newsletter": 25,
+    "notification": 0,
+    "spam": 0,
+    "other": 69
+  },
+  "whatsapp_sent": false
+}

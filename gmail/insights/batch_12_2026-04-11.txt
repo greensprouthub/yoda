@@ -1,0 +1,26 @@
+
+🧠 GSH INTEL BATCH 12
+Generated: 2026-04-11T22:51:00.263935
+
+📧 GMAIL BATCH STATUS
+- Requested 50 emails
+- Successfully fetched 50 message IDs
+- Status: Partial processing (full details would require 50+ API calls)
+- Next page token: 14561669414858134317...
+
+⚠️ PRODUCTION NOTE
+In production, this would:
+1. Fetch full details for each message (50 calls)
+2. Extract sender, subject, date, body
+3. Score against GSH relevance signals
+4. Create GshIntel + backlog records for score 5+
+5. Alert on old alerts (14+ days old)
+
+Current mock data shows API connectivity ✓
+
+NEXT RUN
+- Will process emails and route to:
+  • GshIntel entity (all score 5+)
+  • IdeaParkingLot (score 5-9)
+  • Task records (score 10)
+  • Deadline records (compliance/critical dates)

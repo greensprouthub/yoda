@@ -1,0 +1,18 @@
+=== GSH EMAIL INTELLIGENCE — BATCH 5 ===
+Date: 2026-04-09
+Emails scanned: 50
+Insights found (3+): 0
+Noise skipped: 10
+
+ANALYSIS
+--------
+This batch contained mostly newsletters, promotional content, and generic business emails.
+No high-relevance signals for the GSH ecosystem were identified in this batch.
+
+Top senders: Mindvalley, TLDR newsletters, SCORE, course platforms
+Content themes: Personal development, AI news, small biz coaching
+
+NEXT BATCH
+----------
+Ready to scan next 50 emails.
+Page token updated: 09661984684809562061...

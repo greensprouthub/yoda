@@ -1,0 +1,146 @@
+=== GSH EMAIL INTELLIGENCE MINER — BATCH 6 ===
+Date: 2026-04-09 22:51
+Period: Email batch 6 (50 emails scanned)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 RESULTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total emails scanned: 50
+Insights found (score 3+): 18
+  • Fresh insights (score 3+): 18
+  • Old alerts (>14 days): 0
+
+YouTube videos found (score 4+): 15
+
+Total actionable items: 33
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📧 EMAIL INSIGHTS BY CATEGORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AI_AUTOMATION (16 items):
+  [3/5] How to bank 1,000 preorders for your book (even without a massive mailing list)
+      From: Russell Nohelty <hapitalist+tutorials@substack.com>
+      Why: Automation for GSH operations
+
+  [3/5] Your first 30-day wins as a coach (with AI)
+      From: Mindvalley Coach <info@hello.mindvalley.com>
+      Why: Automation for GSH operations
+
+  [3/5] AI That Reads Your Screen, Reviews Your Code, and Books Your Meetings
+      From: The AI Collective Newsletter <aicollectivenewsletter@mail.beehiiv.com>
+      Why: Automation for GSH operations
+
+  [3/5] Your first 30-day wins in AI Mastery
+      From: Mindvalley <info@hello.mindvalley.com>
+      Why: Automation for GSH operations
+
+  [3/5] Idea of the Day: AI Access Control
+      From: Ideabrowser <notifications@mail.ideabrowser.com>
+      Why: Automation for GSH operations
+
+  [3/5] Claude Code leak 🔓, Veo 3.1 Lite ⚡, 1-bit models 🤏
+      From: TLDR AI <dan@tldrnewsletter.com>
+      Why: Automation for GSH operations
+
+  [3/5] Jira XSS Org Takeover 💼, Axios npm Compromise 📦, Claude Code CLI Source Leak 🤖
+      From: TLDR InfoSec <dan@tldrnewsletter.com>
+      Why: Automation for GSH operations
+
+  [3/5] [AIPA]:  We are closing this matter!
+      From: "Trademarks @ Caldera Law" <trademarks@caldera.law>
+      Why: Automation for GSH operations
+
+  [3/5] 📊 Daily Summary — 0 views, 0 sessions, 0 new quotes
+      From: ColorLaserEngraving Analytics <no-reply@base44-apps.com>
+      Why: Automation for GSH operations
+
+  [3/5] AI-native orgs 🤖, services as software 🤝, digital twins 👥 
+      From: TLDR Founders <dan@tldrnewsletter.com>
+      Why: Automation for GSH operations
+
+  [3/5] PagerDuty’s SRE Agent 🔮, Kubernetes v1.36 👀, Leaked Claude Code 💦
+      From: TLDR DevOps <dan@tldrnewsletter.com>
+      Why: Automation for GSH operations
+
+  [3/5] Claude Code leaks 🤖, inside DeepMind 🧠, inference engineering 🧑‍💻
+      From: TLDR <dan@tldrnewsletter.com>
+      Why: Automation for GSH operations
+
+  [3/5] In the Iran war, it looks like AI helped with operations, not strategy
+      From: Gary Marcus from Marcus on AI <garymarcus@substack.com>
+      Why: Automation for GSH operations
+
+  [3/5] This April on Albert's List: AI Showers Bring Career Flowers
+      From: "Accelerate Your Career With Albert's List" <alberts-list-events@mail.beehiiv.com>
+      Why: Automation for GSH operations
+
+  [3/5] Inside a record-breaking Kickstarter campaign
+      From: Kickstarter <email@me.kickstarter.com>
+      Why: Automation for GSH operations
+
+  [3/5] Not All Air Plants Look Like This
+      From: "Air Plant Supply Co." <info@airplantsupplyco.com>
+      Why: Automation for GSH operations
+
+
+BUSINESS (2 items):
+  [3/5] Last chance: Learn to Delegate and Scale
+      From: Elyssa from Augment <team@augmentmba.com>
+      Why: Sales/scaling strategy for product lines
+
+  [3/5] How Eventbrite helped this food festival X3 its growth
+      From: Eventbrite <marketing@organizer.eventbrite.com>
+      Why: Sales/scaling strategy for product lines
+
+
+📺 YOUTUBE INSIGHTS (15 videos):
+  [4/5] Give me 14 Minutes and I’ll make You Dangerously Smart (with AI)
+      Channel: None
+      Link: https://youtube.com/watch?v=0pStigyl674
+
+  [4/5] AI is at a point where it's hiring humans to do the things it can't
+      Channel: https://youtube.com/@danmartell
+      Link: https://youtube.com/watch?v=zrb_Xl4nwBk
+
+  [4/5] MemPalace - How Milla Jovovich's AI Project Scammed the Internet
+      Channel: None
+      Link: https://youtube.com/watch?v=WlxNNvDHJkE
+
+  [4/5] Salesforce CEO on Microsoft Blocking OpenAI Investment, AI Scapegoating, OpenClaw, and Regulation
+      Channel: None
+      Link: https://youtube.com/watch?v=OzUqfN4mcrM
+
+  [4/5] New BEST AI Memory System
+      Channel: https://youtube.com/@matthew_berman
+      Link: https://youtube.com/watch?v=ROKgDeeFAnk
+
+  [4/5] Earth SHATTERING New AI Model
+      Channel: https://youtube.com/@matthew_berman
+      Link: https://youtube.com/watch?v=a-IOrLvd9B4
+
+  [4/5] Helping 4 Educational Business Owners Build a $1M Business in 25 Minutes
+      Channel: None
+      Link: https://youtube.com/watch?v=BYpTRiRqS1Y
+
+  [4/5] Helping Strangers Build A $1,000,000+ Business [LIVE]
+      Channel: None
+      Link: https://youtube.com/watch?v=A8p2HCI_23E
+
+  [4/5] Helping Strangers Build A $1,000,000+ Business [LIVE]
+      Channel: None
+      Link: https://youtube.com/watch?v=I82d3jxg_Aw
+
+  [4/5] You're Making Scaling Way Harder Than It Needs To Be
+      Channel: https://youtube.com/@alexhormozi
+      Link: https://youtube.com/watch?v=ZMTFRQMsPNY
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 NEXT RUN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Page token: 06714685453253542812
+Total scanned so far: 300 emails
+Total insights found: 66 insights (batches 1-6)
+
+Status: Ready for batch 7

@@ -1,0 +1,21 @@
+=== Gmail Batch Summary #12 ===
+Timestamp: 2026-04-11 06:46:10
+Total Emails: 100
+Urgent Items: 10
+
+BREAKDOWN:
+🛍️ Wormspire/Orders: 7
+🤔 Customer Inquiries: 1
+⚠️ Compliance: 2
+📰 Newsletters: 2
+🚫 Spam: 16
+📧 Other: 72
+
+TOP URGENT ITEMS (first 3):
+     1	Your order 422287 has been delivered
+     2	Your order 422287 has been delivered
+     3	Order #2249 confirmed
+
+---
+Full scan completed. File: /app/gmail/batch_summary_12_2026-04-10.txt
+

@@ -1,0 +1,66 @@
+GSH INTEL DIGEST — Batch 7
+Scanned: 50 emails | Found: 14 insights (score 4+)
+
+⭐ SCORE 5/5 (Top Insights)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. The Byte: The Missing Layer in Voice AI
+   From: The AI Collective Newsletter (2026-03-31)
+   Why: Voice AI for customer interaction automation
+   
+2. Codex Plugin for Claude Code 
+   From: TLDR AI (2026-03-31)
+   Why: Direct Claude integration for Yoda/Base44 development
+   
+3. White House App Security Findings
+   From: TLDR InfoSec (2026-03-31)
+   Why: Security best practices for customer data
+   
+4. The Leadership Bias That Quietly Breaks Teams
+   From: Chris Wedding (Climate CEOs) (2026-03-31)
+   Why: Team leadership for GreenSprout Hub scaling
+   
+5. 🔦 UV Night Walks, Texas Mushroom Conference & More
+   From: Angel Schatz (2026-03-31)
+   Why: LOCAL AUSTIN EVENT + UV printing applications
+   ** ACTION: This mentions Texas Mushroom Conference — potential for Wormspire/composting connections **
+   
+6. Apple's AI Strategy & Claude Updates
+   From: TLDR (2026-03-31)
+   Why: AI landscape + video generation for Puzzle4Life content
+   
+7. Leadership & Product Strategy
+   From: TLDR Product (2026-03-31)
+   Why: Product design principles for Puzzle4Life iteration
+
+
+⭐ SCORE 4/5 (Secondary Insights)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• Idea of the Day: Paper Forms in the Wilderness
+  → Data collection logistics (order management application)
+
+• Mindvalley + AI Mastery 
+  → Founder AI skill-building programs (2 insights)
+
+• Pages Are Becoming Teammates
+  → Collaboration tool evaluation for GreenSprout Hub
+
+• TerraCycle Printerless Shipping
+  → Sustainable packaging for Wormspire/Puzzle4Life orders
+
+• Silicon Valley Layoff Trends
+  → Tech labor market context for hiring strategy
+
+• SCORE Webinar
+  → Small business mentoring resources
+
+
+📊 BATCH 7 STATS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total emails scanned: 300 (cumulative)
+Insights found (score 4+): 14
+Score 5/5: 7 items
+Score 4/5: 7 items
+
+Next pageToken: 12214625258889714414

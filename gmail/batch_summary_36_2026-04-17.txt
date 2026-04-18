@@ -1,0 +1,50 @@
+Gmail Batch Summary — Batch #36
+Date: 2026-04-17
+Time: 06:46:21 CDT
+
+=== TOTALS ===
+Total emails processed: 40
+
+=== CATEGORY BREAKDOWN ===
+• Wormspire Orders: 1
+• Customer Inquiries: 31
+• Compliance/Tax: 1
+• Newsletters: 4
+• Spam: 2
+• Other: 1
+
+=== URGENT ITEMS (Top 3) ===
+
+1. From: Etsy Sellers <email@seller.etsy.com>
+   Subject: Your personalized shop tips are ready!
+   Preview: We&#39;ve put these together just for you. Etsy Tailored tips, made just for GreenSproutHub We&#39;ve got the data on what can make shops successful a
+
+=== TOP SENDERS ===
+• Hover: 1
+• Xero: 1
+• Reddit: 1
+• Christian from WeAreNoCode: 1
+• Do512 Family: 1
+• Customthings: 1
+• "What’s Bubbling by Bubble": 1
+• Thinking in Bets: 1
+• Etsy Sellers: 1
+• Enea Abbud: 1
+
+=== CATEGORY DETAILS ===
+
+--- WORMSPIRE ORDER ---
+• Your personalized shop tips are ready! (from Etsy Sellers <email@seller.etsy.com>)
+
+--- CUSTOMER INQUIRY ---
+• "Need help with account restriction" (from Reddit <noreply@redditmail.com>)
+• "I'm not technical enough for this" (from Christian from WeAreNoCode <hello@joinwe)
+• Sherwood Forest Faire Final Weekend! (from Do512 Family <family@goto.do512.com>)
+• See what your custom store could look like... ✨ (from Customthings <info@customthings.com>)
+• 🫧 What's Bubbling: Could now be the best time to launch a mobile app? (from "What’s Bubbling by Bubble" <newsletter@)
+
+--- COMPLIANCE ---
+• Your Hover domain greensprouthub.store is coming up for renewal in 30 days (from Hover <help@hover.com>)
+
+--- OTHER ---
+• Your Xero experience matters, Baris (from Xero <noreply@send.xero.com>)

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420" height="620" viewBox="0 0 420 620" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2E7D32;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:0.85"/>
+    </linearGradient>
+    <filter id="shadow8">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.12"/>
+    </filter>
+    <clipPath id="card8">
+      <rect x="4" y="4" width="412" height="612" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <!-- Shadow -->
+  <rect x="8" y="8" width="412" height="612" rx="20" fill="rgba(0,0,0,0.08)"/>
+
+  <!-- Card bg -->
+  <rect x="4" y="4" width="412" height="612" rx="20" fill="#FAFAFA"/>
+
+  <!-- Color band -->
+  <rect x="4" y="4" width="412" height="310" rx="20" fill="url(#g8)" clip-path="url(#card8)"/>
+  <rect x="4" y="290" width="412" height="30" fill="#2E7D32" clip-path="url(#card8)"/>
+
+  <!-- Piece # badge -->
+  <circle cx="40" cy="40" r="24" fill="rgba(255,255,255,0.2)"/>
+  <text x="40" y="46" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="white" text-anchor="middle">#008</text>
+
+  <!-- Category badge -->
+  <rect x="298" y="18" width="118" height="24" rx="12" fill="rgba(255,255,255,0.2)"/>
+  <text x="357" y="33" font-family="Arial,sans-serif" font-size="9" fill="white" text-anchor="middle" font-weight="bold" letter-spacing="0.5">HABIT</text>
+
+  <!-- Hex icon -->
+  <polygon points="210,68 240,85 240,118 210,135 180,118 180,85" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.45)" stroke-width="1.5"/>
+  <text x="210" y="110" font-family="Arial,sans-serif" font-size="28" text-anchor="middle">🔄</text>
+
+  <!-- Title -->
+  
+    <text x="210" y="185" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="white" text-anchor="middle">Repetition Becomes</text>
+    <text x="210" y="215" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="white" text-anchor="middle">Craving</text>
+
+  <!-- Subtitle -->
+  
+    <text x="210" y="259" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.85)" text-anchor="middle" font-style="italic">Your brain begins to want what</text>
+    <text x="210" y="277" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.85)" text-anchor="middle" font-style="italic">it repeatedly does</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="330" x2="390" y2="330" stroke="#E0E0E0" stroke-width="1"/>
+
+  <!-- Activities label -->
+  <text x="34" y="352" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#2E7D32" letter-spacing="1">PRACTICE ACTIVITIES</text>
+
+  <!-- Activities -->
+  
+    <rect x="34" y="365" width="14" height="14" rx="3" fill="none" stroke="#2E7D32" stroke-width="1.5"/>
+    <text x="56" y="378" font-family="Arial, sans-serif" font-size="11" fill="#333333">Pick ONE new habit and do it at the exact sam…</text>
+    <rect x="34" y="395" width="14" height="14" rx="3" fill="none" stroke="#2E7D32" stroke-width="1.5"/>
+    <text x="56" y="408" font-family="Arial, sans-serif" font-size="11" fill="#333333">Anchor it to an existing routine (after coffe…</text>
+    <rect x="34" y="425" width="14" height="14" rx="3" fill="none" stroke="#2E7D32" stroke-width="1.5"/>
+    <text x="56" y="438" font-family="Arial, sans-serif" font-size="11" fill="#333333">Track it daily in your HabitLog — streaks bui…</text>
+    <rect x="34" y="455" width="14" height="14" rx="3" fill="none" stroke="#2E7D32" stroke-width="1.5"/>
+    <text x="56" y="468" font-family="Arial, sans-serif" font-size="11" fill="#333333">When you miss a day, never miss twice — resta…</text>
+    <rect x="34" y="485" width="14" height="14" rx="3" fill="none" stroke="#2E7D32" stroke-width="1.5"/>
+    <text x="56" y="498" font-family="Arial, sans-serif" font-size="11" fill="#333333">After 14 days, notice if you feel 'off' when …</text>
+    <rect x="34" y="515" width="14" height="14" rx="3" fill="none" stroke="#2E7D32" stroke-width="1.5"/>
+    <text x="56" y="528" font-family="Arial, sans-serif" font-size="11" fill="#333333">Expand to a second habit only after the first…</text>
+
+  <!-- Footer -->
+  <text x="210" y="606" font-family="Arial,sans-serif" font-size="8" fill="#BDBDBD" text-anchor="middle">PUZZLE4LIFE™  ·  REPETITION-BECOMES-CRAVING</text>
+</svg>

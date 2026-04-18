@@ -1,0 +1,18 @@
+{
+  "app_id": "69d5a392d242a308154749d6",
+  "slug": "yoda",
+  "pages": {
+    "Dashboard": {
+      "title": "Dashboard"
+    },
+    "Lucky7": {
+      "title": "Lucky7"
+    },
+    "Puzzle4LifeDashboard": {
+      "title": "Puzzle4LifeDashboard"
+    },
+    "FoodWasteSet": {
+      "title": "FoodWasteSet"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+GMAIL BATCH SUMMARY #28
+Date: 2026-04-15
+Time: 06:46:15 CT
+
+TOTAL EMAILS: 100
+
+CATEGORY BREAKDOWN:
+- Wormspire Orders: 0
+- Customer Inquiries: 1
+- Compliance/ZenBusiness: 1
+- Newsletters: 22
+- Spam: 0
+- Other: 76
+
+URGENT FLAGS:
+  • [INQUIRY] The question nearly everyone asks
+
+TOP SENDERS (69 unique):
+  4x — Google <no-reply@accounts.google.com>
+  4x — Andrej Morgan <andrejm@forgoodprofits.com>
+  4x — Ideabrowser <notifications@mail.ideabrowser.com>
+  3x — Jordan Myska Allen <jordanmallen+relatefulness@substack.com>
+  3x — Do512 <toppicks@goto.do512.com>
+  3x — Taki Moore <takimoore@milliondollarcoach.com>
+  2x — Faire <hello@e.faire.com>
+  2x — Red Fridge Society <cal-ouHgAHCszM3INEo@calendar.luma-mail.c
+  2x — Monica Leonelle <team@theworldneedsyourpassion.com>
+  2x — Creator Spotlight <creator-spotlight@mail.beehiiv.com>
+
+ACTION ITEMS:
+- Review 1 customer inquiries
+- Check 1 compliance notices
+- Process 0 potential Wormspire orders
+
+---

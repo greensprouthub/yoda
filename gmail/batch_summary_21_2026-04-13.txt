@@ -1,0 +1,24 @@
+=== Gmail Batch Summary #21 ===
+Date: 2026-04-13 18:46:39 (Central Time)
+
+Total Emails: 100
+
+Category Breakdown:
+  Wormspire Orders/Amazon: 2
+  ZenBusiness/Compliance: 0
+  Newsletters: 21
+  Notifications: 30
+  Customer Inquiries: 47
+  Spam/Promo: 0
+  Other: 0
+
+Urgent Items (2):
+  • Security alert (from Google <no-reply@accounts.google.com>)
+  • Security alert (from Google <no-reply@accounts.google.com>)
+
+Unique Senders: 67
+
+Key Action Items:
+  → Review 2 urgent items above
+  → Process 2 Wormspire orders if any
+  → Follow up on 47 customer inquiries if any

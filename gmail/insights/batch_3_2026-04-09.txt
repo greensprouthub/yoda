@@ -1,0 +1,131 @@
+=== GSH EMAIL INTELLIGENCE MINER — BATCH 3 ===
+Date: 2026-04-09
+Emails scanned: 50
+Insights found (score 3+): 23
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SCORE 5 INSIGHTS (DIRECTLY ACTIONABLE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. 🔧 COOL TECH
+   Subject: Apple eGPU support ⚡, inside AI lab finances 💰, Claude Code system prompts 🤖
+   From: TLDR <dan@tldrnewsletter.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+2. 🔧 COOL TECH
+   Subject: greensprouthub: Your weekly Aikido digest
+   From: Aikido Security <hello@aikido.dev>
+   Why: Signal in 🔧 COOL TECH, 🌱 SUSTAINABILITY, ⚡ AI/AUTOMATION
+
+3. 🔧 COOL TECH
+   Subject: Claim your Lovable store on Shopify
+   From: Shopify <no-reply@shopify.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+4. 🔧 COOL TECH
+   Subject: The back story behind the first “$1.8 Billion” dollar “AI Company”
+   From: Gary Marcus from Marcus on AI <garymarcus@substack.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+5. 🔧 COOL TECH
+   Subject: Have bots killed emailed, or are they just harming it irreparably?
+   From: Russell Nohelty <hapitalist@substack.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+6. 🔧 COOL TECH
+   Subject: 1 Day Left for $1.50 Air Plants
+   From: "Air Plant Supply Co." <info@airplantsupplyco.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+7. 🔧 COOL TECH
+   Subject: Happy Easter from Painted Tree 🐇
+   From: Painted Tree Boutiques <donotreply@paintedtree.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+8. 🔧 COOL TECH
+   Subject: Last 72 hours left to learn how to scale your business with AI
+   From: Mindvalley <info@hello.mindvalley.com>
+   Why: Signal in 🔧 COOL TECH, 💡 BUSINESS IDEAS, ⚡ AI/AUTOMATION
+
+9. 🔧 COOL TECH
+   Subject: Daily Summary: 0 New Quotes | Apr 5
+   From: xTool Services Pro <no-reply@base44-apps.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+10. 🔧 COOL TECH
+   Subject: 📊 Daily Summary — 0 views, 0 sessions, 0 new quotes
+   From: ColorLaserEngraving Analytics <no-reply@base44-apps.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+11. 🔧 COOL TECH
+   Subject: Last 72 hours left to learn how to scale your business with AI
+   From: Mindvalley <info@hello.mindvalley.com>
+   Why: Signal in 🔧 COOL TECH, 💡 BUSINESS IDEAS, ⚡ AI/AUTOMATION
+
+12. 🔧 COOL TECH
+   Subject: 6 Ways I Cut My Claude Token Usage in Half!
+   From: "Sabrina Ramonov 🍄" <sabrinaramonov@substack.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+13. 🔧 COOL TECH
+   Subject: Brain Food: Credibility is Expensive
+   From: "Shane Parrish (FS)" <newsletter@farnamstreetblog.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+14. 🔧 COOL TECH
+   Subject: 4 days until your first AI Mastery session.
+   From: Mindvalley <info@hello.mindvalley.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+15. 🔧 COOL TECH
+   Subject: 4 days until your first AI Mastery session.
+   From: Mindvalley <info@hello.mindvalley.com>
+   Why: Signal in 🔧 COOL TECH, ⚡ AI/AUTOMATION
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SCORE 4 INSIGHTS (STRONG SIGNALS, WORTH EXPLORING)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. 🔧 COOL TECH
+   Subject: Netflix’s Multimodal Search 🎬, Tools Over Attention 🧠, Dashboard Graveyard 🪦
+   From: TLDR Data <dan@tldrnewsletter.com>
+   Why: Signal in 🔧 COOL TECH
+
+2. 💡 BUSINESS IDEAS
+   Subject: Sarah Peterson posted in Austin Startup Meetup
+   From: Meetup <info@meetup.com>
+   Why: Signal in 💡 BUSINESS IDEAS
+
+3. 🔧 COOL TECH
+   Subject: Final days to upgrade your xTool setup (ends April 12)
+   From: Clicklease Customer Care <customercare@clicklease.com>
+   Why: Signal in 🔧 COOL TECH
+
+4. 💡 BUSINESS IDEAS
+   Subject: Jessica Madden posted in Austin Startup: Idea to IPO
+   From: Meetup <info@meetup.com>
+   Why: Signal in 💡 BUSINESS IDEAS
+
+5. 💡 BUSINESS IDEAS
+   Subject: Idea of the Day: Trade school to job site
+   From: Ideabrowser <notifications@mail.ideabrowser.com>
+   Why: Signal in 💡 BUSINESS IDEAS
+
+6. 💡 BUSINESS IDEAS
+   Subject: Idea of the Day: Bookkeeping for Creators
+   From: Ideabrowser <notifications@mail.ideabrowser.com>
+   Why: Signal in 💡 BUSINESS IDEAS
+
+7. 🔧 COOL TECH
+   Subject: A05: Redefining Your Toolkit. Modular. Versatile. All in One.
+   From: KICKSTARTECH <media@kickstartech.net>
+   Why: Signal in 🔧 COOL TECH
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Score 5: 15
+Score 4: 7
+Score 3: 1
+
+Total actionable signals: 22

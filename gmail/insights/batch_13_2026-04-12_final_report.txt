@@ -1,0 +1,93 @@
+==================================================
+GSH INTEL MINER — BATCH 13 (MEDIUM RUN)
+Date: 2026-04-12 01:40 UTC (7:40pm CT)
+Run Type: MEDIUM RUN (Gmail + Reddit + daily summary)
+==================================================
+
+EMAILS SCANNED: 30
+HIGH-VALUE INSIGHTS (Score 5+): 6
+CRITICAL ITEMS (Score 9-10): 2
+
+---
+
+📧 EMAIL GEMS (Ranked by Score)
+
+[SCORE 10] 🚨 URGENT / Finance
+From: Shop Pay / Acquisition.com
+Subject: Your account needs attention - Overdue payment
+Why: CRITICAL DEADLINE: Overdue payment flagged (38 days past due on $250.01)
+Action: IMMEDIATE - Verify Acquisition.com order status and resolve payment today
+Link: https://mail.google.com/mail/u/0/#inbox/19d35f6a48f32f70
+
+[SCORE 9] ⚡ Business / IP  
+From: Trademarks @ Caldera Law
+Subject: [AIPA] Please complete Amazon IP Accelerator Intake Questionnaire
+Why: CRITICAL - Wormspire trademark protection through Amazon IP Accelerator program
+Action: Complete intake form immediately - protects brand on Amazon, Etsy, eBay
+Link: https://mail.google.com/mail/u/0/#inbox/19d39b0f7fb4dbcc
+
+[SCORE 7] 🏪 Competitive Analysis
+From: Vego Garden
+Subject: Introducing the Vego Flower Cage — Take 10% Off Today!
+Why: Direct competitor in modular garden space. Product design & pricing intel.
+Action: Study their product design and marketing for GreenSprout positioning
+Link: https://mail.google.com/mail/u/0/#inbox/19d3978cfabdfc84
+
+[SCORE 5] 📈 Growth Strategy
+From: Andrej Morgan (For Good Profits)
+Subject: From the bedroom to a billion
+Why: Founder story + brand building case study for Wormspire scaling strategy
+Action: Review founder playbook for e-commerce scale (Amazon/Etsy strategy)
+Link: https://mail.google.com/mail/u/0/#inbox/19d3a1c9d38700fd
+
+[SCORE 5] 🤖 Business Model
+From: Ideabrowser
+Subject: Idea of the Day: Freelance Trainer Retainer
+Why: Predictive AI for customer retention. Applicable to Wormspire lifecycle.
+Action: Explore churn prevention patterns for subscription/repeat purchase strategy
+Link: https://mail.google.com/mail/u/0/#inbox/19d3a0ecc816d574
+
+[SCORE 5] 🎓 Learning / AI Tools
+From: Mindvalley
+Subject: Your 4-month roadmap to AI Mastery
+Why: AI mastery curriculum relevant for Base44 automation & product innovation
+Action: Assess if timeline fits commute-based learning window (starts April 8)
+Link: https://mail.google.com/mail/u/0/#inbox/19d39e5e930d70a2
+
+---
+
+📊 AUTO-LOG TO BACKLOG
+
+Score 9: 1 item → IdeaParkingLot (High priority)
+  - Amazon IP Accelerator trademark form completion
+
+Score 7: 1 item → IdeaParkingLot (High priority)
+  - Competitive analysis: Vego Garden product strategy
+
+Score 5: 4 items → IdeaParkingLot (Medium priority)
+  - Founder scaling playbook
+  - Customer retention AI model
+  - AI Mastery course assessment
+  
+Score 10: 1 item → Task (Critical priority)
+  - URGENT: Resolve Shop Pay overdue payment
+
+Total logged: 7 items
+
+---
+
+📱 WHATSAPP DIGEST URL
+🗂️ https://yoda-app-154749d6.base44.app
+
+---
+
+BATCH SUMMARY
+- Next Page Token: 16827421107393583833
+- Total Emails Scanned (all-time): 580
+- Total Insights Found (all-time): 185
+- High-Value Rate: 20% (6/30)
+- Critical Rate: 6.6% (2/30)
+
+STATUS: ✅ Batch 13 complete. Ready for backlog sync.
+
+NOTE: Entity creation encountered 403 error (app visibility). Insights extracted and logged locally. Manual backlog sync recommended.

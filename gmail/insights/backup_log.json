@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-12",
+  "spreadsheet_id": "1u8AqB8i3UBnbVJmGLIQMd8H7rUvlVyiYYkSUCksKO3w",
+  "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1u8AqB8i3UBnbVJmGLIQMd8H7rUvlVyiYYkSUCksKO3w",
+  "timestamp": "2026-04-12T15:01:05.276627",
+  "total_records": 160,
+  "entity_breakdown": {
+    "Task": 52,
+    "IdeaParkingLot": 42,
+    "Deadline": 10,
+    "GshIntel": 21,
+    "OutreachContact": 18,
+    "StrategyDecision": 9,
+    "WeeklyOpsReview": 0,
+    "HabitLog": 0,
+    "Puzzle4LifePiece": 8
+  }
+}

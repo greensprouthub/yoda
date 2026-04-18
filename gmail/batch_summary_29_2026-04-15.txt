@@ -1,0 +1,51 @@
+📊 GMAIL BATCH SUMMARY — BATCH #29
+============================================================
+Date: 2026-04-15
+Total emails processed: 100
+
+📂 CATEGORY BREAKDOWN
+────────────────────────────────────────────────────────────
+  Other................................... 73
+  Newsletter.............................. 8
+  Customer Inquiry........................ 6
+  Wormspire Order......................... 5
+  ZenBusiness/Compliance.................. 5
+  Spam.................................... 3
+
+🚨 URGENT ITEMS (5)
+────────────────────────────────────────────────────────────
+  1. [Other] CPUID Supply Chain Hit ⛓️, Little Snitch Hits Linux 🐧, Rocks
+     From: dan@tldrnewsletter.com
+  2. [Other] Opinion: Export controls failed.
+     From: astro@forwardfuture.ai
+  3. [Other] Welcome to Creator Spotlight 🐝
+     From: creator-spotlight@mail.beehiiv.com
+  4. [Other] What’s happening in Austin · Week of April 13
+     From: noreply@luma-mail.com
+  5. [ZenBusiness/Compliance] Idea of the Day: Compliance-First No-Code
+     From: notifications@mail.ideabrowser.com
+
+👥 SENDERS (63)
+────────────────────────────────────────────────────────────
+  • FridgeBot@fridgeatx.com
+  • JamesJLeach@user.luma-mail.com
+  • aicollectivenewsletter@mail.beehiiv.com
+  • alberts-list-events@mail.beehiiv.com
+  • andrejm@forgoodprofits.com
+  • astro@forwardfuture.ai
+  • authenticaustin@mail.beehiiv.com
+  • bea@cx.beehiiv.com
+  • cal-ouHgAHCszM3INEo@calendar.luma-mail.com
+  • creator-spotlight@mail.beehiiv.com
+  • dan@tldrnewsletter.com
+  • donotreply@paintedtree.com
+  • dustin@trudeautraining.com
+  • ebay@ebay.com
+  • entrepreneurdinnerclub@mail.beehiiv.com
+  • eric@firecrawl.dev
+  • events@kidsoutandabout.com
+  • family@goto.do512.com
+  • garymarcus@substack.com
+  • gmail-noreply@google.com
+
+============================================================

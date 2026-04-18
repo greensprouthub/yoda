@@ -1,0 +1,122 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "set_name": {
+      "type": "string"
+    },
+    "set_folder": {
+      "type": "string"
+    },
+    "set_number": {
+      "type": "number"
+    },
+    "tagline": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "theme": {
+      "type": "string"
+    },
+    "brand": {
+      "type": "string",
+      "enum": [
+        "Puzzle4Life",
+        "Wormspire",
+        "GreenSprout Hub",
+        "MinuteWins",
+        "Play2Learn"
+      ]
+    },
+    "piece_numbers": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "piece_count": {
+      "type": "number"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "v1_cdn_url": {
+      "type": "string"
+    },
+    "v2_cdn_url": {
+      "type": "string"
+    },
+    "v3_cdn_url": {
+      "type": "string"
+    },
+    "v1_laser_path": {
+      "type": "string"
+    },
+    "v2_uv_path": {
+      "type": "string"
+    },
+    "v3_color_path": {
+      "type": "string"
+    },
+    "base44_files_uploaded": {
+      "type": "boolean"
+    },
+    "git_commit_hash": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "YouTube",
+        "Email/Newsletter",
+        "GshIntel",
+        "Manual",
+        "Book",
+        "Podcast",
+        "Article",
+        "Project Drawdown"
+      ]
+    },
+    "source_name": {
+      "type": "string"
+    },
+    "source_link": {
+      "type": "string"
+    },
+    "sell_v1_price": {
+      "type": "number"
+    },
+    "sell_v2_price": {
+      "type": "number"
+    },
+    "sell_v3_price": {
+      "type": "number"
+    },
+    "etsy_listing_url": {
+      "type": "string"
+    },
+    "amazon_listing_url": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Draft",
+        "Generated",
+        "Approved",
+        "Listed",
+        "Archived"
+      ]
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "Puzzle4LifeSet"
+}

@@ -1,0 +1,32 @@
+GMAIL BATCH SUMMARY #6
+Date: 2026-04-09T12:46:42.266365
+Total Emails: 58
+
+CATEGORY BREAKDOWN:
+  other: 37
+  ai_research: 9
+  wormspire_order: 4
+  maker_tools: 4
+  newsletter: 2
+  zenbusiness_compliance: 1
+  customer_inquiry: 1
+
+
+URGENT ITEMS (2):
+1. don’t miss tomorrow's tax webinar!
+   From: Lili <tax-ready@us.lili.co>
+2. re: duct2go inquiry
+   From: Duct2Go <info@duct2go.com>
+
+
+SENDERS (Top 10):
+  xTool: 3
+  Mercury: 3
+  Vego Garden: 2
+  Creative3DP: 2
+  Baris Guler: 2
+  eufymake: 2
+  Vishen from Mindvalley: 2
+  Dropbox: 1
+  Amazon Business: 1
+  "AI Automation (A-Z) (Skool)": 1

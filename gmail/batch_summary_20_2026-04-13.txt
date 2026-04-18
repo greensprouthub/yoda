@@ -1,0 +1,43 @@
+GMAIL BATCH SUMMARY #20
+Date: 2026-04-13
+Time: 06:46 UTC
+
+TOTAL EMAILS PROCESSED: 100
+
+CATEGORY BREAKDOWN:
+  Customer Inquiry: 1
+  Newsletter: 32
+  Other: 54
+  Promo/Spam: 1
+  Wormspire Order: 8
+  ZenBusiness/Compliance: 4
+
+URGENT FLAGS: 3
+
+Top Urgent Items:
+  1. From: Square <noreply@messaging.squareup.com>
+     Subject: Offline payments are now turned on
+     Preview: No connection? No problem ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌
+  2. From: Google <no-reply@accounts.google.com>
+     Subject: Security alert
+     Preview: You allowed Base44 access to some of your Google Account data greensprouthubusa@gmail.com If you did
+  3. From: Google <no-reply@accounts.google.com>
+     Subject: Security alert
+     Preview: You allowed Base44 access to some of your Google Account data greensprouthubusa@gmail.com If you did
+
+KEY SENDERS (66 unique):
+  - "AI Automation (A-Z) (Skool)" <noreply@skool.com>
+  - "Air Plant Supply Co." <info@airplantsupplyco.com>
+  - "Amazon Seller Central Notifications (Do Not Reply)" <donotreply@amazon.com>
+  - "Sabrina Ramonov 🍄" <sabrinaramonov@substack.com>
+  - "Shane Parrish (FS)" <newsletter@farnamstreetblog.com>
+  - "Workroom (by UNMUTE™)" <unmutework@calendar.luma-mail.com>
+  - "yoann@climateinsiders.com" <climateinsiders+big-ideas@substack.com>
+  - Amazon Web Services <aws-marketing-email-replies@amazon.com>
+  - Andrej Morgan <andrejm@forgoodprofits.com>
+  - AuditFlow AI <no-reply@base44-apps.com>
+
+ACTION ITEMS:
+  ⚠️ Review urgent items above
+  📊 Process 100 emails in detail
+  📧 Follow up on 3 flagged items

@@ -1,0 +1,62 @@
+================================================================================
+GMAIL BATCH SUMMARY #8 — 2026-04-09 17:45 PST (Batch Window: 2026-04-08 → 2026-04-09)
+================================================================================
+
+📊 PROCESSING STATS
+-------------------
+Total emails scanned:        100
+Processed (detailed scan):   30 emails
+Remaining in queue:          70 (will process in next batch)
+
+📂 CATEGORY BREAKDOWN (from 30 processed)
+-----------------------------------------
+  • Wormspire Orders:         0
+  • Customer Inquiries:       0
+  • ZenBusiness/Compliance:   0
+  • Newsletters:              1 (Break the Algorithm weekly digest)
+  • Spam/Junk:                0
+  • Other:                    29 (news, products, learning, community alerts)
+
+⚠️  URGENT FLAGS
+----------------
+  → None flagged in this batch
+  → Gmail is still ingesting historical emails
+  → No immediate action items detected
+
+👥 TOP SENDERS (unique contacts, first 15)
+------------------------------------------
+  1. TLDR AI <dan@tldrnewsletter.com>
+  2. Nextdoor Local News <reply@rs.email.nextdoor.com>
+  3. Ariel from Augment <team@augmentmba.com>
+  4. Do512 <toppicks@goto.do512.com>
+  5. Penguin Random House LLC via Faire
+  6. Square <noreply@messaging.squareup.com>
+  7. Ideabrowser <notifications@mail.ideabrowser.com>
+  8. TLDR Fintech <dan@tldrnewsletter.com>
+  9. Vercel <notifications@vercel.com>
+  10. Andrej Morgan <andrejm@forgoodprofits.com>
+  11. Shopify <email@email.shopify.com>
+  12. richie@lonestarfarmersmarket.com
+  13. Mercury <hello@mercury.com>
+  14. MCJ <myclimatejourney@substack.com>
+  15. Kickstarter <email@me.kickstarter.com>
+  + 15 more senders
+
+🔑 KEY ACTION ITEMS
+-------------------
+  1. Review Mercury charge notification ($609.00 AMEX payment via ACH)
+     → Check if expected
+  2. Vercel domain configuration alert for greensprouthub projects
+     → May need quick config check
+  3. Lone Star Farmers Market signup reminder
+     → Sunday signup link: richie@lonestarfarmersmarket.com
+
+📝 NOTES
+--------
+  • Gmail is still ingesting historical emails from forwarded domain
+  • Most activity is newsletters, product updates, and community alerts
+  • No customer orders, inquiries, or compliance issues in this batch
+  • Next batch (#9) will continue processing remaining 70 emails
+  • Email automation will activate after Gmail ingestion completes
+
+================================================================================

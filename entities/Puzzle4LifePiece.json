@@ -1,0 +1,144 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "piece_number": {
+      "type": "number"
+    },
+    "short_name": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
+    },
+    "theme_color": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Mindset",
+        "Habit",
+        "Business",
+        "Sustainability",
+        "AI/Tech",
+        "Relationships",
+        "Creativity",
+        "Focus",
+        "Health",
+        "Finance"
+      ]
+    },
+    "piece_type": {
+      "type": "string",
+      "enum": [
+        "Core",
+        "Star",
+        "Heart"
+      ]
+    },
+    "activities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "star_benefit": {
+      "type": "string"
+    },
+    "heart_benefit": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "origin_set": {
+      "type": "string"
+    },
+    "origin_set_folder": {
+      "type": "string"
+    },
+    "compatible_sets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "YouTube",
+        "Email/Newsletter",
+        "GshIntel",
+        "Manual",
+        "Book",
+        "Podcast",
+        "Article",
+        "Puzzle4Life Set"
+      ]
+    },
+    "source_name": {
+      "type": "string"
+    },
+    "source_link": {
+      "type": "string"
+    },
+    "source_date": {
+      "type": "string"
+    },
+    "v1_cdn_url": {
+      "type": "string"
+    },
+    "v2_cdn_url": {
+      "type": "string"
+    },
+    "v3_cdn_url": {
+      "type": "string"
+    },
+    "png_individual_url": {
+      "type": "string"
+    },
+    "png_path": {
+      "type": "string"
+    },
+    "svg_path": {
+      "type": "string"
+    },
+    "png_url": {
+      "type": "string"
+    },
+    "base44_files_uploaded": {
+      "type": "boolean"
+    },
+    "git_committed": {
+      "type": "boolean"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Draft",
+        "Generated",
+        "Reviewed",
+        "Approved",
+        "Published"
+      ]
+    },
+    "review_notes": {
+      "type": "string"
+    },
+    "in_backlog": {
+      "type": "boolean"
+    }
+  },
+  "required": [],
+  "name": "Puzzle4LifePiece"
+}

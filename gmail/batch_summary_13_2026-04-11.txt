@@ -1,0 +1,32 @@
+GMAIL BATCH SUMMARY #13
+Date: 2026-04-11
+Total emails processed: 100
+
+CATEGORY BREAKDOWN:
+  📰 Newsletter/Digest: 46
+  Other: 32
+  📦 Wormspire/Order: 16
+  💌 Marketing: 4
+  📱 Social: 2
+
+URGENT ITEMS (2):
+  1. [Thu, 09 Ap] The Austin Business Review
+     From: Ethan Brooks <ethan@austinbusinessreview.com>
+     ID: 19d71b630866fa32
+
+  2. [Sat, 11 Ap] Review 1 flagged ACH pull
+     From: Mercury <hello@mercury.com>
+     ID: 19d7ab70ca9ebfa4
+
+
+TOP SENDERS:
+  eBay - miblas-23 <miblas_dxsp6899od@members.ebay.com>: 6
+  Mercury <hello@mercury.com>: 4
+  Taki Moore <takimoore@milliondollarcoach.com>: 3
+  xTool <no-reply.support@xtool.com>: 3
+  Vego Garden <harvest@vegogarden.com>: 2
+  Harrison Swales <entrepreneurdinnerclub@mail.beehiiv.com>: 2
+  xTool <no-reply@edm.xtool.com>: 2
+  eBay <ebay@ebay.com>: 2
+  Do512 <toppicks@goto.do512.com>: 2
+  Square <noreply@messaging.squareup.com>: 2

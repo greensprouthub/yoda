@@ -1,0 +1,35 @@
+GMAIL BATCH SUMMARY — Batch #10
+Generated: 2026-04-17 18:47:38 CDT
+================================================================================
+
+TOTAL EMAILS PROCESSED: 50
+
+CATEGORY BREAKDOWN:
+  • Other: 31
+  • Newsletter: 11
+  • Spam/Promo: 4
+  • Customer Inquiry: 4
+  • Wormspire Order: 0
+
+URGENT FLAGS:
+
+  1. [Customer Inquiry] Seerut K. Chawla's Self-Help Critiques on Instagram
+     From: Jordan Myska Allen <jordanmallen+relatefulness@substack.com>
+
+  2. [Customer Inquiry] "Need help with account restriction"
+     From: Reddit <noreply@redditmail.com>
+
+  3. [Customer Inquiry] See what your custom store could look like... ✨
+     From: Customthings <info@customthings.com>
+
+KEY ACTION ITEMS:
+  • 4 customer inquiries need response
+  • Archive/delete 4 spam/promo emails
+  • Review 31 "Other" emails for actionable items (product updates, event invitations, partnerships)
+
+SENDERS SUMMARY (48 unique senders):
+Top contacts: Etsy, beehiiv, LinkedIn, AI newsletters, Shopify, xTool, Amazon
+
+KEY INSIGHT:
+This batch reflects your multi-brand presence: Shopify billing, xTool analytics (multiple sites), partner integrations (CustomThings), and heavy AI/product community engagement (newsletters dominate with 11/50). Only 4 direct customer inquiries — low urgency week so far.
+

@@ -1,0 +1,66 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Day Job",
+        "Wormspire",
+        "Puzzle4Life",
+        "GSH",
+        "Marketing",
+        "Operations",
+        "Personal",
+        "Events",
+        "MinuteWins",
+        "Other"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "To Do",
+        "In Progress",
+        "Done",
+        "Blocked",
+        "Backlog"
+      ]
+    },
+    "priority": {
+      "type": "string",
+      "enum": [
+        "Low",
+        "Medium",
+        "High",
+        "Urgent"
+      ]
+    },
+    "due_date": {
+      "type": "string"
+    },
+    "parent_task": {
+      "type": "string"
+    },
+    "micro_steps": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "is_micro_task": {
+      "type": "boolean"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "Task"
+}

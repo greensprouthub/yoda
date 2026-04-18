@@ -1,0 +1,66 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "date": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "context": {
+      "type": "string"
+    },
+    "yoda_recommendation": {
+      "type": "string"
+    },
+    "decision": {
+      "type": "string",
+      "enum": [
+        "\u2705 Approved",
+        "\u23f8\ufe0f Parked",
+        "\u274c Rejected",
+        "\ud83d\udd04 Revisit",
+        "\ud83d\udcac Discussing"
+      ]
+    },
+    "reasoning": {
+      "type": "string"
+    },
+    "brand": {
+      "type": "string",
+      "enum": [
+        "Wormspire",
+        "Puzzle4Life",
+        "GreenSprout Hub",
+        "uvprint.io",
+        "makerprintlab.com",
+        "Personal",
+        "All"
+      ]
+    },
+    "investment": {
+      "type": "string"
+    },
+    "revisit_date": {
+      "type": "string"
+    },
+    "outcome": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Open",
+        "In Progress",
+        "Completed",
+        "Abandoned"
+      ]
+    },
+    "tags": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "StrategyDecision"
+}

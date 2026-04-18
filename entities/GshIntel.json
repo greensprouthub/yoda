@@ -1,0 +1,51 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "batch_number": {
+      "type": "number"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Cool Tech",
+        "Collab/Network",
+        "Business Idea",
+        "Sustainability",
+        "AI/Automation",
+        "Supplier/Product",
+        "Other"
+      ]
+    },
+    "score": {
+      "type": "number"
+    },
+    "subject": {
+      "type": "string"
+    },
+    "sender": {
+      "type": "string"
+    },
+    "why_relevant": {
+      "type": "string"
+    },
+    "suggested_action": {
+      "type": "string"
+    },
+    "source_date": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "New",
+        "Reviewed",
+        "Acting On",
+        "Parked",
+        "Dismissed"
+      ]
+    }
+  },
+  "required": [],
+  "name": "GshIntel"
+}

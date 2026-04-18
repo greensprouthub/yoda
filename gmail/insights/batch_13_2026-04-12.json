@@ -1,0 +1,81 @@
+{
+  "batch_number": 13,
+  "run_type": "MEDIUM",
+  "run_time": "2026-04-12T01:40:00Z",
+  "email_gems": [
+    {
+      "id": "19d39b0f7fb4dbcc",
+      "from": "Trademarks @ Caldera Law",
+      "subject": "[AIPA]: Please complete our Intake Questionnaire for Amazon IP Accelerator",
+      "snippet": "REMINDER: Please Complete our Intake Form for Amazon IP Accelerator Brand Registry",
+      "score": 9,
+      "category": "Business / IP",
+      "why_relevant": "CRITICAL: Wormspire trademark protection through Amazon IP Accelerator program",
+      "suggested_action": "Complete intake form immediately - protects Wormspire brand on Amazon, Etsy, eBay",
+      "source_date": "2026-03-29"
+    },
+    {
+      "id": "19d3978cfabdfc84",
+      "from": "Vego Garden",
+      "subject": "Introducing the Vego Flower Cage—Take 10% Off Today!",
+      "snippet": "Final hours to claim spring garden discounts with code SPRING3",
+      "score": 7,
+      "category": "Competitive Analysis",
+      "why_relevant": "Vego is a direct competitor in the modular garden space - raised bed design and pricing intel",
+      "suggested_action": "Study their product design and marketing messaging for GreenSprout positioning",
+      "source_date": "2026-03-29"
+    },
+    {
+      "id": "19d3a1c9d38700fd",
+      "from": "Andrej Morgan",
+      "subject": "From the bedroom to a billion",
+      "snippet": "How a single mom built a billion-dollar brand",
+      "score": 5,
+      "category": "Growth Strategy",
+      "why_relevant": "Founder story + brand building case study relevant to Wormspire scaling strategy",
+      "suggested_action": "Review founder playbook for e-commerce scale (Amazon, Etsy marketplace strategy)",
+      "source_date": "2026-03-29"
+    },
+    {
+      "id": "19d3a0ecc816d574",
+      "from": "Ideabrowser",
+      "subject": "Idea of the Day: Freelance Trainer Retainer",
+      "snippet": "An AI that reads booking patterns and flags clients before they cancel",
+      "score": 5,
+      "category": "Business Model",
+      "why_relevant": "Predictive AI for customer retention - applicable to Wormspire customer lifecycle",
+      "suggested_action": "Explore customer churn prevention patterns for subscription-style offerings",
+      "source_date": "2026-03-29"
+    },
+    {
+      "id": "19d39e5e930d70a2",
+      "from": "Mindvalley",
+      "subject": "Your 4-month roadmap to AI Mastery",
+      "snippet": "First live session is April 8th - here's exactly what you'll build",
+      "score": 5,
+      "category": "Learning / AI Tools",
+      "why_relevant": "AI mastery curriculum - relevant for Base44 automation and product innovation",
+      "suggested_action": "Assess if AI Mastery course timeline fits commute-based learning window",
+      "source_date": "2026-03-29"
+    },
+    {
+      "id": "19d35f6a48f32f70",
+      "from": "Shop Pay",
+      "subject": "Your account needs attention",
+      "snippet": "Overdue payment Shop Pay YOUR ORDER FROM Acquisition.com $250.01 - 38 days overdue",
+      "score": 10,
+      "category": "URGENT / Finance",
+      "why_relevant": "CRITICAL DEADLINE: Overdue payment flagged (38 days past due)",
+      "suggested_action": "IMMEDIATE: Verify Acquisition.com order status and resolve overdue payment today",
+      "source_date": "2026-03-28"
+    }
+  ],
+  "reddit_findings": [],
+  "summary": {
+    "total_emails_scored": 30,
+    "high_value_items": 6,
+    "critical_items": 2,
+    "categories": ["Business/IP", "Competitive Analysis", "Growth Strategy", "Business Model", "Learning", "Finance"],
+    "next_page_token": "16827421107393583833"
+  }
+}

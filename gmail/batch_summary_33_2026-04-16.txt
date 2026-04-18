@@ -1,0 +1,80 @@
+=== GMAIL BATCH SUMMARY #33 ===
+Date: 2026-04-16
+Total emails processed: 50
+
+=== CATEGORY BREAKDOWN ===
+  Wormspire Orders: 0
+  Customer Inquiries: 2
+  ZenBusiness/Compliance: 3
+  Newsletters: 8
+  Spam: 0
+  Other: 37
+
+=== TOP SENDERS ===
+  welcome@t.brevo.com (2)
+  contact@t.brevo.com (2)
+  contact@edm.xtool.com (2)
+  score.austin@scorevolunteer.org (2)
+  noreply@skool.com (2)
+  astro@forwardfuture.ai (1)
+  info@email.meetup.com (1)
+  events@kidsoutandabout.com (1)
+  hello@theshellworks.com (1)
+  waymond@xtool.com (1)
+  dan@tldrnewsletter.com (1)
+  aw250cs-club@ghost.io (1)
+  AmericanExpress@welcome.americanexpress.com (1)
+  noreply@makerprintlab.com (1)
+  bea@cx.beehiiv.com (1)
+
+=== DETAILED BREAKDOWN ===
+
+CUSTOMER_INQUIRY (2)
+  How do tech and community management support each other in coworking?
+    From: aw250cs-club@ghost.io
+  Is business slow? Learn how to get things revved up at our Women Entre
+    From: score.austin@scorevolunteer.org
+
+NEWSLETTER (8)
+  DuckLake Hits Production 🦆, Autonomous ML Experimentation 🧪, OCR at Sc
+    From: dan@tldrnewsletter.com
+  Daily Stats — 2026-04-15
+    From: noreply@makerprintlab.com
+  We’ve received your Xero cancellation request
+    From: noreply@send.xero.com
+  Coachella Quarters • Setlists • Boho Chic
+    From: trends-noreply@google.com
+  $300k /month (no team + 95% profit)
+    From: noreply@skool.com
+  Outstanding Fees Due
+    From: noreply@clicklease.com
+  Your .Local London Founder's Pass, Plus Shopify AI Toolkit, Confluence
+    From: aicollectivenewsletter@mail.beehiiv.com
+  Albert Shiney posted "Sell fully autonomous agents for $15k "
+    From: noreply@skool.com
+
+OTHER (37)
+  Allbirds is done selling shoes
+    From: astro@forwardfuture.ai
+  Your Meetup group, Austin Permaculture Guild, is about to shut down ⚠️
+    From: info@email.meetup.com
+  KidsOutandAbout Austin Newsletter 4/16/2026: Motion and Music
+    From: events@kidsoutandabout.com
+  Why the wellness industry has a plastic problem
+    From: hello@theshellworks.com
+  Re: Thanks for joining xTool MakerFest Stop #6 Texas Squad meetup!
+    From: waymond@xtool.com
+  Future Transactions May Be Declined
+    From: AmericanExpress@welcome.americanexpress.com
+  Website, please. 💬
+    From: bea@cx.beehiiv.com
+  🌱 The Science of BioComplete™ Compost
+    From: community@mail.soilfoodweb.com
+
+ZENBU_COMPLIANCE (3)
+  Trades Conference: Turn Your Trade Into a Real Business
+    From: score.austin@scorevolunteer.org
+  Idea of the Day: Franchise bench builder
+    From: notifications@mail.ideabrowser.com
+  We're officially a Universal Ads Business Partner!
+    From: chad.rogers@m.lemonlight.com

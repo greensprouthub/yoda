@@ -1,0 +1,697 @@
+{
+  "last_updated": "2026-04-15",
+  "channels": [
+    {
+      "handle": "danmartell",
+      "name": "Dan Martell",
+      "url": "https://youtube.com/@danmartell",
+      "topic": "SaaS founder, business growth, Buy Back Your Time",
+      "gsh_relevance": [
+        "GSH/Insight",
+        "GSH/New Process",
+        "GSH/GreenSproutHub"
+      ]
+    },
+    {
+      "handle": "aigodfatheryt",
+      "name": "AI Godfather",
+      "url": "https://youtube.com/@aigodfatheryt",
+      "topic": "AI tools, automation, business AI",
+      "gsh_relevance": [
+        "GSH/AI-Tech",
+        "GSH/New Process"
+      ]
+    },
+    {
+      "handle": "presence-purpose",
+      "name": "Presence & Purpose",
+      "url": "https://youtube.com/@presence-purpose",
+      "topic": "Mindfulness, personal growth, purpose",
+      "gsh_relevance": [
+        "GSH/Insight",
+        "GSH/Puzzle4Life"
+      ]
+    },
+    {
+      "handle": "matthew_berman",
+      "name": "Matthew Berman",
+      "url": "https://youtube.com/@matthew_berman",
+      "topic": "AI models, open source LLMs, AI news",
+      "gsh_relevance": [
+        "GSH/AI-Tech",
+        "GSH/New Process"
+      ]
+    },
+    {
+      "handle": "napoleonhill_notes",
+      "name": "Napoleon Hill Notes",
+      "url": "https://youtube.com/@napoleonhill_notes",
+      "topic": "Think and Grow Rich, success mindset",
+      "gsh_relevance": [
+        "GSH/Insight",
+        "GSH/Puzzle4Life"
+      ]
+    },
+    {
+      "handle": "chasehughesofficial",
+      "name": "Chase Hughes",
+      "url": "https://youtube.com/@chasehughesofficial",
+      "topic": "Persuasion, behavior science, human influence",
+      "gsh_relevance": [
+        "GSH/Insight",
+        "GSH/New Process",
+        "GSH/GreenSproutHub"
+      ]
+    },
+    {
+      "handle": "alexhormozi",
+      "name": "Alex Hormozi",
+      "url": "https://youtube.com/@alexhormozi",
+      "topic": "Business growth, offers, scaling",
+      "gsh_relevance": [
+        "GSH/GreenSproutHub",
+        "GSH/Wormspire",
+        "GSH/Insight"
+      ]
+    },
+    {
+      "handle": "theicedcoffeehourclips",
+      "name": "Iced Coffee Hour Clips",
+      "url": "https://youtube.com/@theicedcoffeehourclips",
+      "topic": "Entrepreneurship, money, founder interviews",
+      "gsh_relevance": [
+        "GSH/Insight",
+        "GSH/GreenSproutHub"
+      ]
+    },
+    {
+      "handle": "ycombinator",
+      "name": "Y Combinator",
+      "url": "https://youtube.com/@ycombinator",
+      "topic": "Startup advice, founder stories, PMF",
+      "gsh_relevance": [
+        "GSH/GreenSproutHub",
+        "GSH/Insight",
+        "GSH/Partnership"
+      ]
+    },
+    {
+      "handle": "stanfordgsb",
+      "name": "Stanford GSB",
+      "url": "https://youtube.com/@stanfordgsb",
+      "topic": "Business school, leadership, innovation",
+      "gsh_relevance": [
+        "GSH/Insight",
+        "GSH/GreenSproutHub"
+      ]
+    },
+    {
+      "handle": "themitmonk",
+      "name": "The MIT Monk",
+      "url": "https://youtube.com/@themitmonk",
+      "topic": "Science-backed mindfulness, neuroscience, productivity",
+      "gsh_relevance": [
+        "GSH/Insight",
+        "GSH/Puzzle4Life"
+      ]
+    },
+    {
+      "handle": "kevintrudeaushow",
+      "name": "Kevin Trudeau Show",
+      "url": "https://youtube.com/@kevintrudeaushow",
+      "topic": "Memory training, persuasion, success mindset, self-improvement",
+      "gsh_relevance": [
+        "GSH/Insight",
+        "GSH/Puzzle4Life",
+        "GSH/New Process"
+      ]
+    },
+    {
+      "handle": "MoGawdatOfficial",
+      "name": "Mo Gawdat",
+      "url": "https://youtube.com/@MoGawdatOfficial",
+      "topic": "AI future, human flourishing, happiness, consciousness, existential risk of AI, purpose-driven living",
+      "gsh_relevance": [
+        "GSH/Puzzle4Life",
+        "GSH/Insight",
+        "GSH/GreenSproutHub"
+      ]
+    }
+  ],
+  "newsletters": [
+    {
+      "name": "The Austin Business Review",
+      "url": "https://austinbusinessreview.com",
+      "contact": "ethan@austinbusinessreview.com",
+      "cadence": "Weekly",
+      "topic": "Austin local events, business insights, community happenings for Austin business owners",
+      "gsh_relevance": [
+        "GSH/GreenSproutHub",
+        "GSH/Partnership",
+        "GSH/Wormspire",
+        "GSH/Insight"
+      ],
+      "why": "Austin-local lens \u2014 events, networking, sustainability happenings, entrepreneur meetups. Great for Wormspire local visibility and GSH partnerships.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:ethan@austinbusinessreview.com"
+    },
+    {
+      "name": "TLDR (AI, Founders, DevOps, Product)",
+      "url": "https://tldr.tech",
+      "contact": "dan@tldrnewsletter.com",
+      "cadence": "Daily",
+      "topic": "Tech, AI, startups, product, DevOps \u2014 concise daily briefings",
+      "gsh_relevance": [
+        "GSH/AI-Tech",
+        "GSH/New Process",
+        "GSH/Insight",
+        "GSH/GreenSproutHub"
+      ],
+      "why": "Daily pulse on AI tools, startup trends, and product insights relevant to all 5 GSH businesses.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:dan@tldrnewsletter.com",
+      "unsubscribe_recommended": true,
+      "unsubscribe_reason": "Yoda scans this directly \u2014 no need in inbox"
+    },
+    {
+      "name": "Climate Insiders",
+      "url": "https://substack.com/@climateinsiders",
+      "contact": "climateinsiders+big-ideas@substack.com",
+      "cadence": "Weekly",
+      "topic": "Climate tech, sustainability funding, green economy trends",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/GreenSproutHub",
+        "GSH/Insight",
+        "GSH/Partnership"
+      ],
+      "why": "Sustainability lens \u2014 funding, trends, and partnerships perfectly aligned with Wormspire and GSH mission.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:climateinsiders+big-ideas@substack.com"
+    },
+    {
+      "name": "AI Collective Newsletter",
+      "url": "https://beehiiv.com",
+      "contact": "aicollectivenewsletter@mail.beehiiv.com",
+      "cadence": "Weekly",
+      "topic": "AI agents, automation tools, AI ethics and enterprise use",
+      "gsh_relevance": [
+        "GSH/AI-Tech",
+        "GSH/New Process",
+        "GSH/GreenSproutHub"
+      ],
+      "why": "Tracks AI agent evolution \u2014 directly relevant to how Yoda and GSH automation stack evolves.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:aicollectivenewsletter@mail.beehiiv.com",
+      "unsubscribe_recommended": true,
+      "unsubscribe_reason": "Yoda scans this directly \u2014 no need in inbox"
+    },
+    {
+      "name": "Forward Future (Matthew Berman)",
+      "url": "https://forwardfuture.ai",
+      "contact": "astro@forwardfuture.ai",
+      "cadence": "Weekly",
+      "topic": "AI models, open source LLMs, automation workflows",
+      "gsh_relevance": [
+        "GSH/AI-Tech",
+        "GSH/New Process"
+      ],
+      "why": "Companion to the YouTube channel \u2014 deeper written breakdowns of AI model news.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:astro@forwardfuture.ai",
+      "unsubscribe_recommended": true,
+      "unsubscribe_reason": "Already tracked via YouTube channel \u2014 email is redundant"
+    },
+    {
+      "name": "AITX Community Weekly",
+      "url": "https://beehiiv.com",
+      "contact": "aitx@mail.beehiiv.com",
+      "cadence": "Weekly",
+      "topic": "AI news with Texas focus \u2014 education, policy, business",
+      "gsh_relevance": [
+        "GSH/AI-Tech",
+        "GSH/GreenSproutHub",
+        "GSH/Insight"
+      ],
+      "why": "Texas-local AI angle \u2014 good for Austin networking and staying ahead of local AI adoption trends.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:aitx@mail.beehiiv.com"
+    },
+    {
+      "name": "Entrepreneur Dinner Club",
+      "url": "https://beehiiv.com",
+      "contact": "entrepreneurdinnerclub@mail.beehiiv.com",
+      "cadence": "Weekly",
+      "topic": "Curated entrepreneur experiences, networking, founder stories",
+      "gsh_relevance": [
+        "GSH/Partnership",
+        "GSH/GreenSproutHub",
+        "GSH/Insight"
+      ],
+      "why": "Austin entrepreneur community \u2014 partnership and collab opportunities for GSH brands.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:entrepreneurdinnerclub@mail.beehiiv.com"
+    },
+    {
+      "name": "Substack Digest (Jordan Myska Allen, Sabrina Ramonov)",
+      "url": "https://substack.com",
+      "contact": "no-reply@substack.com",
+      "cadence": "Varies",
+      "topic": "Mindfulness, leadership, AI productivity, personal growth",
+      "gsh_relevance": [
+        "GSH/Puzzle4Life",
+        "GSH/Insight",
+        "GSH/New Process"
+      ],
+      "why": "Personal growth and mindfulness content aligned with Puzzle4Life themes and Lucky 7 system.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:no-reply@substack.com OR from:jordanmallen+relatefulness@substack.com"
+    },
+    {
+      "name": "xTool",
+      "url": "https://xtool.com",
+      "contact": "no-reply@edm.xtool.com",
+      "cadence": "Frequent",
+      "topic": "xTool laser machine deals, new products, tips",
+      "gsh_relevance": [
+        "GSH/makerprintlab",
+        "GSH/Wormspire"
+      ],
+      "why": "Your primary laser supplier \u2014 keep for deals and new machine announcements.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:edm.xtool.com"
+    },
+    {
+      "name": "Faire Wholesale",
+      "url": "https://faire.com",
+      "contact": "hello@e.faire.com",
+      "cadence": "Weekly",
+      "topic": "Wholesale marketplace \u2014 products, buyer trends, supplier news",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/Puzzle4Life"
+      ],
+      "why": "Wholesale distribution channel for Wormspire and Puzzle4Life \u2014 watch for buyer opportunities.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:e.faire.com"
+    },
+    {
+      "name": "Kickstarter Reads",
+      "url": "https://kickstarter.com",
+      "contact": "email@me.kickstarter.com",
+      "cadence": "Weekly",
+      "topic": "Crowdfunding trends, successful campaigns, creative products",
+      "gsh_relevance": [
+        "GSH/Puzzle4Life",
+        "GSH/Wormspire"
+      ],
+      "why": "Puzzle4Life crowdfunding launch inspiration \u2014 see what's working in adjacent categories.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:me.kickstarter.com"
+    },
+    {
+      "name": "Do512 / Do512 Family",
+      "url": "https://do512.com",
+      "contact": "toppicks@goto.do512.com",
+      "cadence": "Weekly",
+      "topic": "Austin events, local activities, family weekend picks",
+      "gsh_relevance": [
+        "GSH/GreenSproutHub",
+        "GSH/Wormspire"
+      ],
+      "why": "Austin event calendar \u2014 Cedar Springs, TreeFolks type events will show up here first.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:goto.do512.com"
+    },
+    {
+      "name": "Austin Permaculture Guild (Meetup)",
+      "url": "https://meetup.com",
+      "contact": "info@email.meetup.com",
+      "cadence": "Event-based",
+      "topic": "Permaculture, sustainable gardening, Austin community events",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/GreenSproutHub",
+        "GSH/Partnership"
+      ],
+      "why": "GOLD for Wormspire \u2014 permaculture community = exact target customer. Demo opportunities.",
+      "scan_method": "gmail_search",
+      "gmail_query": "from:email.meetup.com Austin Permaculture"
+    }
+  ],
+  "web_sources": [
+    {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com",
+      "cadence": "Daily",
+      "topic": "Tech, startups, makers, AI, open source",
+      "gsh_relevance": [
+        "GSH/AI-Tech",
+        "GSH/New Process",
+        "GSH/GreenSproutHub"
+      ],
+      "why": "Best daily signal for tech + maker community trends.",
+      "scan_method": "web_scrape",
+      "scan_url": "https://news.ycombinator.com"
+    },
+    {
+      "name": "Project Drawdown",
+      "url": "https://drawdown.org/news",
+      "cadence": "Weekly",
+      "topic": "Science-based climate solutions, sustainability rankings",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/GreenSproutHub",
+        "GSH/Sustainability"
+      ],
+      "why": "Composting and regenerative agriculture are Drawdown solutions \u2014 credibility and story fuel for Wormspire.",
+      "scan_method": "web_scrape",
+      "scan_url": "https://drawdown.org/news"
+    },
+    {
+      "name": "One Tree Planted Blog",
+      "url": "https://onetreeplanted.org/blogs/news",
+      "cadence": "Weekly",
+      "topic": "Reforestation, environmental partnerships, grant programs",
+      "gsh_relevance": [
+        "GSH/GreenSproutHub",
+        "GSH/Partnership",
+        "GSH/Wormspire"
+      ],
+      "why": "Partnership and grant angle \u2014 GSH could co-brand with One Tree Planted for every Wormspire sold.",
+      "scan_method": "web_scrape",
+      "scan_url": "https://onetreeplanted.org/blogs/news"
+    },
+    {
+      "name": "Etsy Seller Handbook",
+      "url": "https://www.etsy.com/seller-handbook",
+      "cadence": "Weekly",
+      "topic": "Etsy platform updates, SEO tips, seller best practices",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/Puzzle4Life"
+      ],
+      "why": "Platform changes that directly affect your Etsy listings \u2014 stay ahead of algorithm shifts.",
+      "scan_method": "web_scrape",
+      "scan_url": "https://www.etsy.com/seller-handbook"
+    },
+    {
+      "name": "Amazon Seller Central Blog",
+      "url": "https://sell.amazon.com/blog",
+      "cadence": "Weekly",
+      "topic": "Amazon seller updates, FBA changes, listing optimization",
+      "gsh_relevance": [
+        "GSH/Wormspire"
+      ],
+      "why": "Wormspire's main sales channel \u2014 policy changes, A+ content updates, fee changes all matter.",
+      "scan_method": "web_scrape",
+      "scan_url": "https://sell.amazon.com/blog"
+    },
+    {
+      "name": "Permaculture Research Institute",
+      "url": "https://www.permaculturenews.org",
+      "cadence": "Weekly",
+      "topic": "Permaculture techniques, composting, regenerative agriculture",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/GreenSproutHub"
+      ],
+      "why": "Deep credibility content for Wormspire \u2014 positions it in the permaculture ecosystem, not just Amazon.",
+      "scan_method": "web_scrape",
+      "scan_url": "https://www.permaculturenews.org"
+    },
+    {
+      "name": "Reddit r/wormfarming",
+      "url": "https://reddit.com/r/wormfarming",
+      "cadence": "Daily",
+      "topic": "Worm composting community \u2014 questions, tips, products",
+      "gsh_relevance": [
+        "GSH/Wormspire"
+      ],
+      "why": "Your exact target customer talking in real time. Best source for product feedback and content ideas.",
+      "scan_method": "web_scrape",
+      "scan_url": "https://www.reddit.com/r/wormfarming/new.json"
+    },
+    {
+      "name": "Reddit r/ADHD",
+      "url": "https://reddit.com/r/ADHD",
+      "cadence": "Daily",
+      "topic": "ADHD community \u2014 productivity tools, systems, struggles",
+      "gsh_relevance": [
+        "GSH/Puzzle4Life"
+      ],
+      "why": "Puzzle4Life's core audience talking openly. Real pain points = real product angles.",
+      "scan_method": "web_scrape",
+      "scan_url": "https://www.reddit.com/r/ADHD/new.json"
+    },
+    {
+      "name": "r/3Dprinting",
+      "url": "https://reddit.com/r/3Dprinting",
+      "scan_url": "https://www.reddit.com/r/3Dprinting/new.json",
+      "topic": "3D printing community \u2014 techniques, machines, products",
+      "gsh_relevance": [
+        "GSH/makerprintlab",
+        "GSH/Wormspire"
+      ],
+      "why": "Adjacent maker community \u2014 cross-pollination with laser/UV printing services.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/Austin",
+      "url": "https://reddit.com/r/Austin",
+      "scan_url": "https://www.reddit.com/r/Austin/new.json",
+      "topic": "Austin community \u2014 local events, news, businesses",
+      "gsh_relevance": [
+        "GSH/GreenSproutHub",
+        "GSH/Wormspire"
+      ],
+      "why": "Local Austin pulse \u2014 events, community needs, local biz opportunities.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/AustinClassifieds",
+      "url": "https://reddit.com/r/AustinClassifieds",
+      "scan_url": "https://www.reddit.com/r/AustinClassifieds/new.json",
+      "topic": "Austin buy/sell/trade listings",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/Puzzle4Life"
+      ],
+      "why": "Direct local sales channel \u2014 post Wormspire/Puzzle4Life for local Austin buyers.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/AustinGardening",
+      "url": "https://reddit.com/r/AustinGardening",
+      "scan_url": "https://www.reddit.com/r/AustinGardening/new.json",
+      "topic": "Austin gardening \u2014 local plants, soil, composting",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/GreenSproutHub"
+      ],
+      "why": "GOLD \u2014 Austin gardeners asking about composting = perfect Wormspire audience.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/austinstartups",
+      "url": "https://reddit.com/r/austinstartups",
+      "scan_url": "https://www.reddit.com/r/austinstartups/new.json",
+      "topic": "Austin startup ecosystem \u2014 founders, funding, events",
+      "gsh_relevance": [
+        "GSH/GreenSproutHub",
+        "GSH/Partnership"
+      ],
+      "why": "Austin startup network \u2014 GSH incubator angle, potential partners.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/EtsySellers",
+      "url": "https://reddit.com/r/EtsySellers",
+      "scan_url": "https://www.reddit.com/r/EtsySellers/new.json",
+      "topic": "Etsy seller tips, algorithm changes, shop growth",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/Puzzle4Life"
+      ],
+      "why": "Platform intel \u2014 algorithm changes and best practices for your Etsy shops.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/kickstarter",
+      "url": "https://reddit.com/r/kickstarter",
+      "scan_url": "https://www.reddit.com/r/kickstarter/new.json",
+      "topic": "Crowdfunding campaigns, backer feedback, launch tips",
+      "gsh_relevance": [
+        "GSH/Puzzle4Life",
+        "GSH/Wormspire"
+      ],
+      "why": "Puzzle4Life crowdfunding launch research.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/lasercutting",
+      "url": "https://reddit.com/r/lasercutting",
+      "scan_url": "https://www.reddit.com/r/lasercutting/new.json",
+      "topic": "Laser cutting projects, machines, tips",
+      "gsh_relevance": [
+        "GSH/makerprintlab",
+        "GSH/Puzzle4Life"
+      ],
+      "why": "Core community for laser cutting services and Puzzle4Life manufacturing.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/Laserengraving",
+      "url": "https://reddit.com/r/Laserengraving",
+      "scan_url": "https://www.reddit.com/r/Laserengraving/new.json",
+      "topic": "Laser engraving techniques, projects, business ideas",
+      "gsh_relevance": [
+        "GSH/makerprintlab",
+        "GSH/Wormspire",
+        "GSH/Puzzle4Life"
+      ],
+      "why": "Direct community for your xTool services and Puzzle4Life laser-cut products.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/lovable",
+      "url": "https://reddit.com/r/lovable",
+      "scan_url": "https://www.reddit.com/r/lovable/new.json",
+      "topic": "Lovable AI app builder \u2014 tips, projects, updates",
+      "gsh_relevance": [
+        "GSH/AI-Tech",
+        "GSH/GreenSproutHub"
+      ],
+      "why": "Adjacent to Base44 \u2014 AI app building trends.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/puzzle4life",
+      "url": "https://reddit.com/r/puzzle4life",
+      "scan_url": "https://www.reddit.com/r/puzzle4life/new.json",
+      "topic": "Your owned Puzzle4Life subreddit",
+      "gsh_relevance": [
+        "GSH/Puzzle4Life"
+      ],
+      "why": "YOUR community \u2014 monitor and engage directly.",
+      "owned": true,
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/shopify",
+      "url": "https://reddit.com/r/shopify",
+      "scan_url": "https://www.reddit.com/r/shopify/new.json",
+      "topic": "Shopify store tips, apps, ecommerce strategies",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/GreenSproutHub"
+      ],
+      "why": "Ecommerce platform intel for GSH own-site sales strategy.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/snoring",
+      "url": "https://reddit.com/r/snoring",
+      "scan_url": "https://www.reddit.com/r/snoring/new.json",
+      "topic": "Sleep and snoring solutions community",
+      "gsh_relevance": [
+        "GSH/Insight"
+      ],
+      "why": "Niche community \u2014 wellness/sleep crossover product ideas.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/UVprinting",
+      "url": "https://reddit.com/r/UVprinting",
+      "scan_url": "https://www.reddit.com/r/UVprinting/new.json",
+      "topic": "UV printing techniques, machines, business ideas",
+      "gsh_relevance": [
+        "GSH/uvprint",
+        "GSH/Puzzle4Life",
+        "GSH/makerprintlab"
+      ],
+      "why": "Direct community for uvprint.io \u2014 techniques, use cases, machine tips.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/wormspire",
+      "url": "https://reddit.com/r/wormspire",
+      "scan_url": "https://www.reddit.com/r/wormspire/new.json",
+      "topic": "Your owned Wormspire subreddit",
+      "gsh_relevance": [
+        "GSH/Wormspire"
+      ],
+      "why": "YOUR community \u2014 monitor and engage directly.",
+      "owned": true,
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/ZeroWaste",
+      "url": "https://reddit.com/r/ZeroWaste",
+      "scan_url": "https://www.reddit.com/r/ZeroWaste/new.json",
+      "topic": "Zero waste lifestyle, composting, sustainability",
+      "gsh_relevance": [
+        "GSH/Wormspire",
+        "GSH/GreenSproutHub"
+      ],
+      "why": "Perfect Wormspire audience \u2014 people committed to zero waste.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    },
+    {
+      "name": "r/ClaudeAI",
+      "url": "https://reddit.com/r/ClaudeAI",
+      "scan_url": "https://www.reddit.com/r/ClaudeAI/new.json",
+      "topic": "Claude AI tips, use cases, news",
+      "gsh_relevance": [
+        "GSH/AI-Tech",
+        "GSH/New Process"
+      ],
+      "why": "Yoda runs on Claude \u2014 stay ahead of new features and use cases.",
+      "cadence": "Daily",
+      "scan_method": "web_scrape"
+    }
+  ],
+  "unsubscribe_list": [
+    {
+      "name": "Adobe Firefly / Acrobat",
+      "email": "mail@e.adobe.com / mail@mail.adobe.com",
+      "reason": "Promo noise, not relevant"
+    },
+    {
+      "name": "xBloom Coffee",
+      "email": "hi@xbloom.com",
+      "reason": "Not relevant"
+    },
+    {
+      "name": "Air Plant Supply Co.",
+      "email": "info@airplantsupplyco.com",
+      "reason": "Low signal"
+    },
+    {
+      "name": "SCORE Chicago",
+      "email": "ch.admin0004@scorevolunteer.org",
+      "reason": "Wrong chapter \u2014 you're Austin"
+    },
+    {
+      "name": "Square Release Notes",
+      "email": "noreply@messaging.squareup.com",
+      "reason": "Operational noise"
+    }
+  ]
+}

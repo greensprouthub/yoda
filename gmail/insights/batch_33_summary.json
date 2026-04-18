@@ -1,0 +1,16 @@
+{
+  "batch_number": 33,
+  "run_type": "FULL RUN",
+  "run_date": "2026-04-16T13:41:27.611114Z",
+  "source_breakdown": {
+    "gmail_emails": 0,
+    "reddit_results": 0,
+    "youtube_videos": 0,
+    "newsletters": 0
+  },
+  "gems_found": 0,
+  "high_value_items": 0,
+  "status": "PARTIAL - Gmail token expired, Reddit/YouTube had no high-value matches",
+  "note": "Batch 33 FULL RUN (7:40am CT): Gmail token expired. Reddit scan (8 subreddits) + YouTube scan (8 channels) returned no high-value matches (score 5+). No items logged to backlog. NextPageToken reset.",
+  "action_required": "Re-authorize Gmail connector for next run"
+}

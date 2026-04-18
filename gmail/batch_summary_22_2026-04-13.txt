@@ -1,0 +1,34 @@
+=== BATCH 22 SUMMARY ===
+Date: 2026-04-13 19:45 CT
+
+Total emails processed: 100
+
+CATEGORY BREAKDOWN:
+  wormspire_order: 3
+  customer_inquiry: 1
+  compliance: 1
+  newsletter: 17
+  spam: 0
+  other: 78
+
+URGENT FLAGS (2):
+  - Offline payments are now turned on
+    From: Square <noreply@messaging.squareup.com>
+    Date: Sun, 12 Apr 2026 16:16:37 +0000
+
+  - Payment due in 3 days
+    From: Shop Pay <affirm-billing@shop.affirm.com>
+    Date: Sat, 11 Apr 2026 19:54:24 +0000
+
+
+TOP SENDERS:
+  Meetup <info@meetup.com>: 5 emails
+  AuditFlow AI <no-reply@base44-apps.com>: 5 emails
+  Gary Marcus from Marcus on AI <garymarcus@substack.com>: 3 emails
+  Ideabrowser <notifications@mail.ideabrowser.com>: 3 emails
+  Better Bone <hello@thebetterbone.com>: 3 emails
+  Kickstarter <no-reply@kickstarter.com>: 3 emails
+  Do512 <toppicks@goto.do512.com>: 2 emails
+  GoDaddy <donotreply@godaddy.com>: 2 emails
+  eBay <ebay@ebay.com>: 2 emails
+  Jordan Myska Allen <jordanmallen+relatefulness@substack.com>: 2 emails

@@ -1,0 +1,218 @@
+[
+  {
+    "piece_number": "1",
+    "title": "Isshin \u2014 One Mind",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "2",
+    "title": "90-Second Brain Capture",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "3",
+    "title": "Ambitious + Unfocused = Dangerous with AI",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "4",
+    "title": "Sink the Ships \u2014 Kill Plan B",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "5",
+    "title": "Willpower is a Fuel Tank",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "6",
+    "title": "If-Then Planning",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "7",
+    "title": "The Checklist is Your Superpower",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "8",
+    "title": "Repetition Becomes Craving",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "9",
+    "title": "Smart Shopping",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "10",
+    "title": "Proper Storage",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "11",
+    "title": "Eat Me First Zone",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "12",
+    "title": "Leftover Magic",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "13",
+    "title": "Compost Scraps",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "14",
+    "title": "Waste Awareness",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "15",
+    "title": "Share & Donate",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "16",
+    "title": "Save Money",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "Star/Heart pieces usually have 3-4 activities"
+    ],
+    "activity_count": 5
+  },
+  {
+    "piece_number": "17",
+    "title": "Planet Impact",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "Star/Heart pieces usually have 3-4 activities"
+    ],
+    "activity_count": 5
+  },
+  {
+    "piece_number": "18",
+    "title": "Start Your Tower",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "19",
+    "title": "Harvest Castings",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "20",
+    "title": "List on Amazon",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "21",
+    "title": "Get Reviews",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "22",
+    "title": "Tell Your Story",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "23",
+    "title": "Repeat & Scale",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "24",
+    "title": "Grow the Community",
+    "status": "PASS",
+    "issues": [],
+    "warnings": [],
+    "activity_count": 6
+  },
+  {
+    "piece_number": "25",
+    "title": "Save Money",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "Duplicate title 'Save Money' (also piece 16)"
+    ],
+    "activity_count": 4
+  },
+  {
+    "piece_number": "26",
+    "title": "Planet Impact",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "Duplicate title 'Planet Impact' (also piece 17)"
+    ],
+    "activity_count": 4
+  }
+]

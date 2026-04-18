@@ -1,0 +1,16 @@
+{
+  "batch_number": 36,
+  "date": "2026-04-17",
+  "time_utc": "06:45",
+  "total_emails": 40,
+  "categories": {
+    "wormspire_order": 1,
+    "customer_inquiry": 31,
+    "compliance": 1,
+    "newsletter": 4,
+    "spam": 0,
+    "other": 3
+  },
+  "urgent_count": 1,
+  "summary_file": "/app/gmail/batch_summary_36_2026-04-17.txt"
+}

@@ -1,0 +1,15 @@
+=== Gmail Batch Summary #9 (2026-04-09) ===
+Generated: 2026-04-10T06:46:34.242465
+
+BATCH NOTES:
+This appears to be the newly-connected greensprouthubusa@gmail.com inbox.
+Mostly account setup emails (Calendly, Zoom confirmations).
+Historical business emails still in original inbox location.
+
+RECOMMENDED ACTION:
+1. Forward future emails from custom domain → Gmail
+2. Set up filters to auto-categorize: orders, compliance, customer inquiries
+3. Archive transactional noise (Calendly, Zoom, etc.)
+4. Run "Email Intelligence Miner" on historical 10K+ emails when ready
+
+STATUS: Monitoring active ✓

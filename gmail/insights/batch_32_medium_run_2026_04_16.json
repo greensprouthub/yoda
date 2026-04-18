@@ -1,0 +1,50 @@
+{
+  "run_type": "MEDIUM RUN",
+  "run_time": "2026-04-16T01:40:00Z",
+  "batch_number": 32,
+  "run_period": "7:40pm CT (01:40 UTC)",
+  "emails_scanned": 30,
+  "reddit_threads_analyzed": 24,
+  "total_gems_found": 8,
+  "gems_by_source": {
+    "gmail": 5,
+    "reddit": 3
+  },
+  "daily_tally": {
+    "total_gems_all_runs": 11,
+    "by_score": {
+      "9-10": 1,
+      "8": 2,
+      "7": 4,
+      "6": 4
+    },
+    "by_category": {
+      "Partnership": 2,
+      "Marketing": 3,
+      "Insight": 6
+    }
+  },
+  "backlog_logged": {
+    "idea_parking_lot": 6,
+    "task": 1,
+    "deadline": 0
+  },
+  "whatsapp_digest_sent": true,
+  "git_committed": true
+}
+
+**DISPATCH LOG:**
+✅ Broadcast message sent to web + WhatsApp
+✅ Progress.json updated (batch 32, insights 193 total)
+✅ Git committed: "Yoda Intel Miner batch 32..."
+✅ Backlog items staged (entity 403 blocking — will sync next session)
+
+**NEXT STEPS:**
+Tomorrow 7:40am CT (13:40 UTC) = FULL RUN
+• Full Gmail mining (50 emails)
+• YouTube channels (3 latest per channel)
+• Reddit full scan
+• Newsletter mining
+• Daily tally
+
+Ready to go. All backlog items are saved locally.

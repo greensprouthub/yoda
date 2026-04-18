@@ -1,0 +1,29 @@
+
+=== GMAIL BATCH SUMMARY #24 ===
+Date: 2026-04-14 07:45 CT
+Total Emails Processed: 100
+
+CATEGORY BREAKDOWN:
+  - Wormspire Orders: 0
+  - Customer Inquiries: 0
+  - Compliance/Tax: 0
+  - Newsletters: 37
+  - Spam: 0
+  - Other: 63
+
+URGENT ITEMS (2):
+
+  1. "Forward Future (Matthew Berman)" <astro@forwardfu — Opinion: Export controls failed.
+  2. Gmail Team <gmail-noreply@google.com> — Gmail Confirmation - Send Mail as team@greensprouthub.com
+
+TOP SENDERS (by count):
+  4x Jordan Myska Allen
+  3x "Forward Future (Matthew Berman)"
+  3x Do512
+  3x Gary Marcus from Marcus on AI
+  3x Ideabrowser
+  3x Taki Moore
+  3x Andrej Morgan
+  2x xToolSquad
+  2x Baris Guler
+  2x Meetup

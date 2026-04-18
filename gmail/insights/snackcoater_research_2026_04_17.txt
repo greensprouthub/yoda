@@ -1,0 +1,132 @@
+🔬 SNACKCOATER RESEARCH REPORT — Apr 17, 2026
+
+=== DEVICE OVERVIEW ===
+KitchenAid tilt-head stand mixer attachment (Aieve SnackCoater brand)
+• Rotating stainless steel pan with axial rotation
+• 2-3 lb (0.9-1.3 kg) capacity per batch
+• Cost: $119-199
+• Functions: even coating via slow rotation + gravity drizzle method
+• Currently marketed for: chocolate, nuts, candies, freeze-dried fruit
+
+=== RESEARCH FINDINGS ===
+
+1️⃣ SEED COATING / PELLETING WITH BIOCHAR + MICROBES ✅ VIABLE
+Academic research confirms biochar seed coating is a proven agricultural practice:
+• Biochar coating improves cold resistance, germination rates, nutrient retention
+• Beneficial microbes (arbuscular mycorrhizae, rhizobia) can be applied via coating
+• Microbe-assisted organic seed pelleting (OSPF) enhances root architecture
+• Patent US20170022117A1: "Biochar Coated Seeds" shows commercial viability
+
+How SnackCoater fits: 
+  - Pan rotating at low speed allows even distribution of biochar clay + microbial slurry
+  - Periodic misting binds coating to seed
+  - Faster + more uniform than hand-dressing for small batches
+  - Perfect for heritage/heirloom seed producers or GSH workshop model
+
+2️⃣ WORM CASTINGS → SLOW-RELEASE FERTILIZER PELLETS ✅ HIGHLY VIABLE
+Worm castings naturally contain 1% nitrogen (0.95% slow-release), microbes, beneficial fungi
+Current market gap: worm castings sold loose, no pellet form for precision application
+
+How SnackCoater fits:
+  - Coat dried worm castings with biochar + clay slip binder → pellets
+  - Pellets = shelf-stable, easy to apply to plants, slow-release nutrition + biology
+  - Baris produces worm castings via Wormspire towers
+  - NEW PRODUCT ANGLE: "Wormspire Nutrient Pellets" (premium tier)
+  - Workshop teaching angle: "Make your own fertilizer pellets"
+
+3️⃣ MYCELIUM / SPORE SUBSTRATE COATING ✅ EMERGING
+Recent innovation: biodegradable fungal coatings replacing plastic packaging
+• Mycelium-based composites are being developed for insulation, packaging, textiles
+• Spore coating = applying fungi to substrate for controlled fruiting
+• Growing trend: mycelium materials as sustainable alternatives
+
+How SnackCoater fits:
+  - Less obvious application BUT rotating pan could distribute spore inoculant evenly over wood chips/straw
+  - Could speed up spawn colonization for mushroom production
+  - Educational workshop potential: "Inoculate your own mushroom substrate"
+
+4️⃣ MAKERSPACE SMALL OBJECT COATING ✅ MODERATE POTENTIAL
+Current makerspace finishes: powder coat, resin, plaster, wax, clay slip
+SnackCoater angles:
+  - Clay slip coating small objects (3D prints, wood) for finishing / waterproofing
+  - Wax coating for protective finish on small wooden items
+  - Plaster dust coating for texture/mold applications
+  - Resin coating small decorative pieces (crystals, wooden discs)
+
+Verdict: Works but NOT a breakthrough — powder coating + brush methods already dominate. Use only if doing high-volume small-batch coating.
+
+5️⃣ SOAP / BATH BOMBS / COSMETICS ✅ POSSIBLE
+Bath bomb presses exist as specialized equipment. Soap coating = less common but viable.
+SnackCoater advantage: rotating pan allows even dusting/coating of pre-formed bombs with mica, glitter, powder.
+
+How SnackCoater fits:
+  - Coat finished bath bombs with cosmetic mica powder, essential oil dust, herbal blend
+  - Not designed for it, but could work as a finishing station
+  - Lower priority than seed/fertilizer angles
+
+6️⃣ EDUCATIONAL WORKSHOP POTENTIAL FOR GSH ✅ STRONG
+Strongest workshop angles:
+  ✓ "Make Your Own Seed Pellets" — biochar, microbes, heirloom seeds (1-2 hr workshop)
+  ✓ "DIY Fertilizer Pellets from Worm Castings" — uses Wormspire output (90 min)
+  ✓ "Coat & Grow: Mycelium Spawning Workshop" — inoculate mushroom substrate (2 hr)
+  ✓ "Precision Coating for Makers" — clay slip, wax, resin finishing (1.5 hr)
+
+GSH makerspace already teaches composting + growing. These workshops = natural extension.
+Market: gardeners, homesteaders, permaculture practitioners, sustainability-focused communities.
+
+7️⃣ COMPETITOR PRODUCTS & DIY APPROACHES
+Commercial seed pelleting: $15k-60k fully automated machines (KRT-480, PC-S Pan Coater)
+DIY approach: Bicycle-powered seed pelletizer (Extension Arizona) — manual rotation
+SnackCoater positioning: Entry-level (~$120), low-barrier, scalable
+
+NO direct competitors in the $120 rotating pan space for agriculture/horticulture coating.
+
+8️⃣ GSH / WORMSPIRE INTEGRATION
+Option A: "Wormspire Nutrient Pellets" Product Line
+  - Baris produces worm castings in towers
+  - Coat + dry castings into pellets using SnackCoater
+  - Sell as premium slow-release fertilizer (premium tier, $28-35/lb)
+  - Aligns with heirloom/regenerative brand positioning
+
+Option B: Workshop + Equipment Sales Model
+  - Teach the SnackCoater coating method in GSH makerspace workshops
+  - Sell DIY SnackCoater kits + seed/biochar supplies
+  - Create a "Coat Your Seed" or "Make Fertilizer Pellets" workshop series
+  - High margin on workshops + supply sales
+
+Option C: Custom Product Manufacturing
+  - Small-batch custom seed coating for niche gardeners / seed companies
+  - B2B: "Contact GSH for custom bioinoculated seed coating services"
+  - Justifies equipment investment + Baris's expertise in composting biology
+
+=== VERDICT ===
+SnackCoater is a REAL OPPORTUNITY for GSH, specifically around seed coating and worm casting pellets.
+Not groundbreaking on its own, but a missing piece in the Wormspire ecosystem.
+
+=== TOP 3 ANGLES FOR GSH ===
+
+🥇 #1: WORMSPIRE NUTRIENT PELLETS (Product Innovation)
+Create slow-release fertilizer pellets from worm castings using SnackCoater coating.
+Premium tier product, aligns with regenerative brand, high margin.
+Proof of concept: coat 50 lbs of castings, dry, package, test plant growth.
+Timeline: 2-3 weeks to prototype.
+
+🥈 #2: WORKSHOP SERIES (Educational + Revenue)
+"Make Your Own Seed Pellets" + "DIY Fertilizer Pellets from Worm Castings"
+GSH makerspace already teaches composting. This is the natural next step.
+Workshops = $45-65 per person, supplies included. 8 people/workshop = $360-520 revenue + supply sales.
+Timeline: curriculum design + testing = 1 week, launch in May.
+
+🥉 #3: CUSTOM B2B SEED COATING SERVICES (B2B + Positioning)
+Position GSH as a specialty agricultural services provider.
+"Custom bioinoculated seed coating for regenerative seed companies & heritage breeders"
+Low volume, high margin, differentiates GSH from competitors.
+Timeline: case study first (coat seeds for 1-2 local seed companies), then scale pitch.
+
+=== NEXT STEPS ===
+1. Order SnackCoater ($120) + test with 2 lbs worm castings + clay binder
+2. Coat, dry, test plant growth vs uncoated castings
+3. If successful, prototype batch #1 (10 lbs) and calculate unit costs
+4. Launch workshop #1 (seed coating) in early May
+5. Decide between product line (Option A) vs workshop focus (Option B) based on testing
+

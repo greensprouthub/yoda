@@ -1,0 +1,43 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "week_of": {
+      "type": "string"
+    },
+    "wins": {
+      "type": "string"
+    },
+    "what_didnt_work": {
+      "type": "string"
+    },
+    "top_priorities_next_week": {
+      "type": "string"
+    },
+    "wormspire_sales": {
+      "type": "number"
+    },
+    "puzzle4life_progress": {
+      "type": "string"
+    },
+    "gsh_progress": {
+      "type": "string"
+    },
+    "energy_level": {
+      "type": "string",
+      "enum": [
+        "Low",
+        "Medium",
+        "High"
+      ]
+    },
+    "overall_rating": {
+      "type": "number"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "WeeklyOpsReview"
+}

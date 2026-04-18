@@ -1,0 +1,94 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "organization": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "Influencer",
+        "Nonprofit",
+        "Blogger",
+        "Podcast",
+        "Brand",
+        "Community",
+        "Media"
+      ]
+    },
+    "brand_fit": {
+      "type": "string",
+      "enum": [
+        "Wormspire",
+        "Puzzle4Life",
+        "Both",
+        "GreenSprout Hub"
+      ]
+    },
+    "location": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "tiktok": {
+      "type": "string"
+    },
+    "youtube": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
+    },
+    "followers": {
+      "type": "string"
+    },
+    "why_relevant": {
+      "type": "string"
+    },
+    "collab_idea": {
+      "type": "string"
+    },
+    "priority": {
+      "type": "string",
+      "enum": [
+        "\ud83d\udd34 High",
+        "\ud83d\udfe1 Medium",
+        "\ud83d\udfe2 Low"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Not Contacted",
+        "Email Drafted",
+        "Contacted",
+        "Replied",
+        "In Discussion",
+        "Partnered",
+        "Pass"
+      ]
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "OutreachContact"
+}

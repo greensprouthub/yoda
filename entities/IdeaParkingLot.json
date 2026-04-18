@@ -1,0 +1,48 @@
+{
+  "type": "object",
+  "rls_enabled": true,
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Business",
+        "Product",
+        "Marketing",
+        "Personal",
+        "GSH",
+        "Wormspire",
+        "Puzzle4Life",
+        "MinuteWins",
+        "Other"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Parked",
+        "In Review",
+        "Approved",
+        "Archived"
+      ]
+    },
+    "priority": {
+      "type": "string",
+      "enum": [
+        "Low",
+        "Medium",
+        "High"
+      ]
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "IdeaParkingLot"
+}

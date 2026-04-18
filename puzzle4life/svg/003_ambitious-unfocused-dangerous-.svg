@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420" height="620" viewBox="0 0 420 620" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0277BD;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0277BD;stop-opacity:0.85"/>
+    </linearGradient>
+    <filter id="shadow3">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.12"/>
+    </filter>
+    <clipPath id="card3">
+      <rect x="4" y="4" width="412" height="612" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <!-- Shadow -->
+  <rect x="8" y="8" width="412" height="612" rx="20" fill="rgba(0,0,0,0.08)"/>
+
+  <!-- Card bg -->
+  <rect x="4" y="4" width="412" height="612" rx="20" fill="#FAFAFA"/>
+
+  <!-- Color band -->
+  <rect x="4" y="4" width="412" height="310" rx="20" fill="url(#g3)" clip-path="url(#card3)"/>
+  <rect x="4" y="290" width="412" height="30" fill="#0277BD" clip-path="url(#card3)"/>
+
+  <!-- Piece # badge -->
+  <circle cx="40" cy="40" r="24" fill="rgba(255,255,255,0.2)"/>
+  <text x="40" y="46" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="white" text-anchor="middle">#003</text>
+
+  <!-- Category badge -->
+  <rect x="298" y="18" width="118" height="24" rx="12" fill="rgba(255,255,255,0.2)"/>
+  <text x="357" y="33" font-family="Arial,sans-serif" font-size="9" fill="white" text-anchor="middle" font-weight="bold" letter-spacing="0.5">AI/TECH</text>
+
+  <!-- Hex icon -->
+  <polygon points="210,68 240,85 240,118 210,135 180,118 180,85" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.45)" stroke-width="1.5"/>
+  <text x="210" y="110" font-family="Arial,sans-serif" font-size="28" text-anchor="middle">⚡</text>
+
+  <!-- Title -->
+  
+    <text x="210" y="185" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="white" text-anchor="middle">Ambitious +</text>
+    <text x="210" y="215" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="white" text-anchor="middle">Unfocused =</text>
+
+  <!-- Subtitle -->
+  
+    <text x="210" y="259" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.85)" text-anchor="middle" font-style="italic">How AI amplifies ambition —</text>
+    <text x="210" y="277" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.85)" text-anchor="middle" font-style="italic">for better or worse</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="330" x2="390" y2="330" stroke="#E0E0E0" stroke-width="1"/>
+
+  <!-- Activities label -->
+  <text x="34" y="352" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#0277BD" letter-spacing="1">PRACTICE ACTIVITIES</text>
+
+  <!-- Activities -->
+  
+    <rect x="34" y="365" width="14" height="14" rx="3" fill="none" stroke="#0277BD" stroke-width="1.5"/>
+    <text x="56" y="378" font-family="Arial, sans-serif" font-size="11" fill="#333333">Define your ONE north star goal for this week…</text>
+    <rect x="34" y="395" width="14" height="14" rx="3" fill="none" stroke="#0277BD" stroke-width="1.5"/>
+    <text x="56" y="408" font-family="Arial, sans-serif" font-size="11" fill="#333333">Use AI only for tasks on your priority list, …</text>
+    <rect x="34" y="425" width="14" height="14" rx="3" fill="none" stroke="#0277BD" stroke-width="1.5"/>
+    <text x="56" y="438" font-family="Arial, sans-serif" font-size="11" fill="#333333">Set a daily 'AI office hours' — 30 min of foc…</text>
+    <rect x="34" y="455" width="14" height="14" rx="3" fill="none" stroke="#0277BD" stroke-width="1.5"/>
+    <text x="56" y="468" font-family="Arial, sans-serif" font-size="11" fill="#333333">Review AI outputs critically — validate befor…</text>
+    <rect x="34" y="485" width="14" height="14" rx="3" fill="none" stroke="#0277BD" stroke-width="1.5"/>
+    <text x="56" y="498" font-family="Arial, sans-serif" font-size="11" fill="#333333">Track which AI tools saved you the most time …</text>
+    <rect x="34" y="515" width="14" height="14" rx="3" fill="none" stroke="#0277BD" stroke-width="1.5"/>
+    <text x="56" y="528" font-family="Arial, sans-serif" font-size="11" fill="#333333">Turn one manual task into an automation this …</text>
+
+  <!-- Footer -->
+  <text x="210" y="606" font-family="Arial,sans-serif" font-size="8" fill="#BDBDBD" text-anchor="middle">PUZZLE4LIFE™  ·  AMBITIOUS-UNFOCUSED-DANGEROUS-</text>
+</svg>

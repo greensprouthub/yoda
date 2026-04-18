@@ -1,0 +1,43 @@
+GMAIL BATCH SUMMARY #15
+Date: 2026-04-12
+Time: 18:46 UTC
+
+=== OVERVIEW ===
+Total emails processed: 50
+Urgent items: 3
+
+=== CATEGORY BREAKDOWN ===
+Wormspire Order: 2
+Customer Inquiry: 0
+Compliance: 1
+Newsletter: 0
+Other: 47
+
+=== URGENT ITEMS (3) ===
+FROM: no-reply@accounts.google.com
+SUBJECT: Security alert
+DATE: Sun, 12 Apr 2026 03:13:49 GMT
+PREVIEW: You allowed Base44 access to some of your Google Account data greensprouthubusa@gmail.com If you did...
+---
+FROM: no-reply@accounts.google.com
+SUBJECT: Security alert
+DATE: Sat, 11 Apr 2026 23:00:36 GMT
+PREVIEW: You allowed Base44 access to some of your Google Account data greensprouthubusa@gmail.com If you did...
+---
+FROM: affirm-billing@shop.affirm.com
+SUBJECT: Payment due in 3 days
+DATE: Sat, 11 Apr 2026 19:54:24 +0000
+PREVIEW: This is just a reminder that your payment is due soon. Due in 3 days Shop Pay YOUR ORDER FROM Smart ...
+---
+
+=== TOP SENDERS (10 of 37) ===
+groupupdates@facebookmail.com: 3 emails
+no-reply@base44-apps.com: 3 emails
+app@base44.com: 3 emails
+info@meetup.com: 2 emails
+no-reply@kickstarter.com: 2 emails
+garymarcus@substack.com: 2 emails
+andrejm@forgoodprofits.com: 2 emails
+notifications@mail.ideabrowser.com: 2 emails
+hello@thebetterbone.com: 2 emails
+no-reply@accounts.google.com: 2 emails
