@@ -1,24 +1,25 @@
 {
-  "last_batch_number": 39,
-  "nextPageToken": "18256859161443722850",
-  "total_emails_scanned": 790,
+  "last_batch_number": 40,
+  "nextPageToken": "02997481655118467046",
+  "total_emails_scanned": 840,
   "total_insights_found": 193,
-  "last_run_date": "2026-04-17T19:40:00.000000+00:00",
-  "last_run_type": "LIGHT RUN",
-  "youtube_last_checked": "2026-04-16T13:41:27.611853Z",
-  "reddit_last_checked": "2026-04-17T19:40:00.000000+00:00",
+  "last_run_date": "2026-04-18T13:40:00.000000+00:00",
+  "last_run_type": "FULL RUN",
+  "youtube_last_checked": "2026-04-18T13:40:00.000000Z",
+  "reddit_last_checked": "2026-04-18T13:40:00.000000Z",
   "runs_today": {
     "full_run_7_40_am": "completed",
-    "light_run_1_40_pm": "completed",
+    "light_run_1_40_pm": "pending",
     "medium_run_7_40_pm": "pending"
   },
-  "batch_39_light_run_summary": {
-    "run_type": "LIGHT RUN",
-    "reddit_scan_attempted": true,
+  "batch_40_full_run_summary": {
+    "run_type": "FULL RUN",
+    "email_gems_found": 0,
     "reddit_gems_found": 0,
-    "new_gmail_since_morning": 50,
-    "urgent_items_flagged": 0,
-    "timestamp": "2026-04-17T19:40:00Z",
-    "note": "Reddit scraping requires external API; current setup limited. Gmail scan completed."
+    "youtube_gems_found": 0,
+    "newsletters_identified": 10,
+    "urgent_items_flagged": 2,
+    "timestamp": "2026-04-18T13:40:00Z",
+    "note": "Limited high-scoring gems this cycle. Newsletter intel gathered for manual review."
   }
 }
