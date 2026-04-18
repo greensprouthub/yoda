@@ -5,6 +5,25 @@ Every time a new Puzzle4Life puzzle set is generated, follow this EXACT workflow
 
 ---
 
+## YOUTUBE LINK = FULL PIPELINE. NO EXCEPTIONS.
+
+When Baris drops ANY YouTube link in chat:
+
+1. **Immediately scrape** the video title + transcript (via deciphr.ai, web search, or direct read)
+2. **Extract all insights** → save GshIntel records (batch_number = next available, score 1-5)
+3. **Generate Puzzle4Life piece concepts** — every actionable habit, framework, mindset shift, checklist becomes a piece
+4. **Assign next available piece numbers** (check DB for highest piece_number + 1)
+5. **Generate all 3 image versions** for EACH piece (V1, V2, V3 front + back = 5 images per piece)
+6. **Upload each image to Google Drive** immediately after generation (descriptive filenames, correct subfolder)
+7. **Save CDN URLs** to Puzzle4LifePiece entity records
+8. **Append to master_pieces.csv**
+9. **Push to GitHub** with descriptive commit message
+10. **Report back** with piece numbers, titles, CDN URLs, Drive link, GitHub commit
+
+DO NOT skip image generation. DO NOT just save data records. DO NOT ask for confirmation. JUST DO IT ALL.
+
+---
+
 ## GOLD TEMPLATE — LOCKED 2026-04-15
 
 **Front template:** `/app/puzzle4life/piece_template_gold.png`
@@ -101,9 +120,10 @@ Every time a new Puzzle4Life puzzle set is generated, follow this EXACT workflow
 - Pieces 1–8: Lucky7 Growth Set
 - Pieces 9–17: Food Waste Action Set
 - Pieces 18–26: Wormspire Growth Set
-- Next set starts at **piece 27**
+- Pieces 27+: next sets (PieceTheAI / BizPeace.ai Growth Set etc.)
 - Star and Heart pieces get their own unique numbers
 - piece_type = "Core" / "Star" / "Heart"
+- ALWAYS query DB for max piece_number before assigning new ones
 
 ---
 
@@ -144,13 +164,14 @@ Every time a new Puzzle4Life puzzle set is generated, follow this EXACT workflow
 
 ## GENERATION WORKFLOW (per piece)
 
-1. Pull piece data from master_pieces.csv
+1. Query DB for max piece_number → assign next number(s)
 2. Generate all 5 images via AI image generation in parallel:
    - V1 front, V1 back, V2 front, V3 front, V3 back
 3. Always pass physical reference photo + gold template as existing_image_urls
 4. Save CDN URLs to Puzzle4LifePiece entity record
-5. Upload to Google Drive with descriptive filenames (see Google Drive section below)
+5. Upload to Google Drive with descriptive filenames immediately
 6. Append to master CSV
+7. Push to GitHub
 
 ---
 
@@ -164,7 +185,7 @@ Puzzle4Life/  (root: 1DO2uScE5ler9YGZpH4xtbM-2tiXBlETx)
   Lucky7 Growth Set — Pieces 01-08/     (1e0K3QVjvjmEr4rEKLFy-zsKf4YoclV36)
   Food Waste Action Set — Pieces 09-17/ (1S2Eo8hmD4-5tAKSL7kL9VXjVRFxJUDZW)
   Wormspire Growth Set — Pieces 18-26/  (1c2QCwZlUuiqGDUvchjzT-KONQ-UTxxJd)
-  [New sets get their own subfolder]
+  [New sets get their own subfolder — create it if it doesn't exist]
 ```
 
 **Filename format (descriptive, NO cryptic hashes):**
