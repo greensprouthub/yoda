@@ -1,0 +1,34 @@
+[
+  {
+    "title": "AITX Codex Hackathon — AI Talent & Partnership Opportunity",
+    "description": "AITX Community Weekly reported Texas AI Power Surge and Codex Hackathon. This is a prime recruitment + collaboration opportunity for GSH's AI-focused projects. Baris could participate, recruit neurodivergent AI developers, or partner on sustainability + AI angle.",
+    "category": "Partnership",
+    "status": "Parked",
+    "priority": "High",
+    "notes": "Source: AITX Community Weekly (Apr 17). Score 7/10. Watch for hackathon dates and participation opportunities. Potential for recruiting AI talent into GreenSproutHub ecosystem."
+  },
+  {
+    "title": "Austin Business Review — Recurring Partnership & Event Channel",
+    "description": "The Austin Business Review publishes weekly Austin-focused business insights and local event coverage. Key channel for GreenSproutHub visibility, partnership discovery, and community events. Should monitor for TreeFolks-adjacent opportunities.",
+    "category": "Strategy",
+    "status": "Parked",
+    "priority": "High",
+    "notes": "Source: Austin Business Review (Apr 16). Score 7/10. Consider pitching GreenSproutHub as a local innovation story. Events, partnerships, and sustainability angles align perfectly."
+  },
+  {
+    "title": "Faire Wholesale — Corporate Gift & Hospitality Expansion",
+    "description": "Faire just opened new buyer categories: hotels, restaurants, corporate gift buyers. Wormspire (eco-friendly composting) and Puzzle4Life (personal growth/team building) are perfect for corporate gifting and sustainability initiatives. B2B opportunity to expand distribution.",
+    "category": "Product",
+    "status": "Parked",
+    "priority": "Medium",
+    "notes": "Source: Faire Wholesale (Apr 15). Score 6/10. Research corporate gift positioning for both products. Could be significant B2B revenue stream."
+  },
+  {
+    "title": "Yoda Stack Infrastructure Review — Observability & Monitoring",
+    "description": "TLDR newsletter flagged observability trends (Project Think, AWS Interconnect). Current Yoda automation stack (Gmail mining, Reddit scraping, Task tracking) could benefit from better monitoring, error handling, and infrastructure optimization.",
+    "category": "Tech",
+    "status": "Parked",
+    "priority": "Medium",
+    "notes": "Source: TLDR Newsletter (Apr 17). Score 6/10. Defer until after xTool F2 laser setup. Review backend function logging and automation failure handling."
+  }
+]
